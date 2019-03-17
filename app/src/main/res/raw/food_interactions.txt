@@ -1,0 +1,1194 @@
+DB00006#####Dan shen, dong quai, evening primrose oil, gingko, policosanol, willow bark
+DB00006#####Echinacea
+DB00008#####Recommended adequate hydration.
+DB00011#####Avoid alcohol.
+DB00034#####Avoid alcohol.
+DB00046#####Inject subcutaneuosly 15 minutes before meal
+DB00067#####Ethanol
+DB00085#####Delayed release capsules should not be broken or crushed, but for those patients who cannot swallow the capsules, sprinkle the contents of the capsule onto soft acidic foods (pH of ≤4.5). Alkaline foods with a higher pH will promote early release of pancrelipase followed by enzyme inactivation in the stomach.   
+DB00085#####Multivitamins/minerals which have vitamins ADEK, folate, or iron: If pancrelipase is used in combination with multivitamins/minerals that have vitamins ADEK, folate, or iron then monitor therapy because pancrelipase may decrease absorption of iron in these multivitamin/mineral products.
+DB00085#####Take pancrelipase with meals and a sufficient amount of water.
+DB00091#####Avoid salt substitutes containing potassium.
+DB00091#####Avoid taking with grapefruit or grapefruit juice as grapefruit can significantly increase serum levels of this product.
+DB00091#####Red wine may reduce cyclosporine levels due to increased metabolism, therefore it appears prudent  to avoid red wine (white wine does not appear to affect cyclosporine metabolism).
+DB00091#####When taken with a meal, AUC and Cmax of cyclosporine modified decreased.
+DB00105#####Avoid alcohol.
+DB00134#####Take with food.
+DB00175#####Avoid alcohol.
+DB00175#####Avoid drastic changes in dietary habit.
+DB00175#####Take without regard to meals.
+DB00176#####Avoid alcohol.
+DB00176#####Avoid high doses of caffeine.
+DB00176#####Grapefruit and grapefruit juice should be avoided throughout treatment as grapefruit can significantly increase serum levels of this product.
+DB00176#####Take without regard to meals.
+DB00178#####Alcohol may increase the vasodilatory effects of ramipril. 
+DB00178#####Herbs that may attenuate the antihypertensive effect of ramipril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice.  
+DB00178#####High salt intake may attenuate the antihypertensive effect of ramipril. 
+DB00178#####Ramipril decreases the excretion of potassium. Salt substitutes containing potassium increase the risk of hyperkalemia. 
+DB00178#####Take without regard to meals.
+DB00181#####Avoid alcohol.
+DB00181#####Take without regard to meals.
+DB00186#####Avoid alcohol.
+DB00186#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00186#####Take with food.
+DB00188#####Citrus fruits - Patients should avoid taking extra vitamin C (ascorbic acid) supplements and vitamin C-containing multi-vitamins during their bortezomib therapy. Ascorbic Acid may diminish the therapeutic effect of Bortezomib.
+DB00188#####Green Tea - Green Tea may diminish the antineoplastic effect of Bortezomib. Avoid concurrent use of green tea extract and other green tea products during treatment with bortezomib. 
+DB00189#####Avoid alcohol
+DB00189#####Take with food to reduce irritation.
+DB00191#####Limit caffeine intake.
+DB00191#####Take without regard to meals.
+DB00193#####Oral administration of tramadol hydrochloride with food does not significantly affect its rate or extent of absorption, therefore, tramadol hydrochloride can be administered without regard to food.
+DB00196#####Take without regard to meals.
+DB00198#####Take without regard to meals. Food may improve gastric tolerance.
+DB00199#####Avoid alcohol.
+DB00199#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00199#####Take with a full glass of water Avoid taking with grapefruit juice.
+DB00205#####Folic acid needs increased.
+DB00205#####Take with food to reduce irritation.
+DB00206#####Magnesium, potassium and zinc needs increased.
+DB00206#####Take with food to reduce irritation. Avoid alcohol.
+DB00207#####Do not take Aluminum or magnesium antacids or supplements while on this medication.
+DB00207#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00208#####High fat meals will increase ticlopidine absorption. As well, food can help ticlopidine-induced stomach upset.
+DB00211#####Take without regard to meals.
+DB00213#####Take without regard to meals.
+DB00215#####Avoid alcohol.
+DB00215#####Avoid St.John's Wort.
+DB00215#####Take without regard to meals.
+DB00216#####Exposure to the product (area below curve) and  maximum concentrations are increased when product is taken with a high-fat meal.
+DB00218#####Take without regard to meals. Drink liberally. Absorption is not affected by lipid-rich meals or yogourt.
+DB00220#####Food significantly increases absorption (2 to 3 times).
+DB00220#####Take with food.
+DB00222#####Avoid alcohol.
+DB00222#####Even though food reduces product absorption, the manufacturer recommends taking the product with the first meal of the day.
+DB00224#####Avoid excessive or chronic alcohol use.
+DB00224#####Avoid taking with grapefruit juice
+DB00224#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00224#####Take with a full glass of water.
+DB00227#####Avoid alcohol.
+DB00227#####Avoid drastic changes in dietary habit.
+DB00227#####Avoid taking with grapefruit juice.
+DB00227#####Take with food, 50% increase in bioavailability when taken with food.
+DB00230#####Avoid alcohol (may increase CNS effects).
+DB00230#####When taken with food, Cmax decreases, while Tmax is prolonged. Despite these observations, the total absorption of pregabalin is not effected to a clinically relevant degree. Pregabalin can be taken with or without food. 
+DB00231#####Avoid alcohol.
+DB00231#####Avoid avocado.
+DB00231#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00233#####Take without regard to meals.
+DB00238#####Avoid alcohol.
+DB00238#####Take without regard to meals.
+DB00242#####Echinacea should be used with caution, if at all, in patients receiving therapeutic immunosuppressants. Monitor for reduced efficacy of the immunosuppressant during concomitant use. 
+DB00243#####Grapefruit and grapefruit juice should be avoided throughout treatment.
+DB00243#####Take without regard to meals.
+DB00244#####Take without regard to meals.
+DB00245#####Avoid alcohol.
+DB00245#####Take with food to reduce irritation.
+DB00246#####Avoid alcohol.
+DB00247#####Take with food to reduce irritation.
+DB00248#####Absorption is not affected by food.
+DB00248#####Take with food to improve tolerance.
+DB00250#####Take without regard to meals.
+DB00252#####Avoid alcohol.
+DB00252#####Do not take calcium, aluminum, magnesium or Iron supplements within 2 hours of taking this medication.
+DB00252#####Take with food to increase bioavailability and reduce irritation.
+DB00254#####Avoid alcohol.
+DB00254#####Avoid milk, calcium containing dairy products, iron, antacids, or aluminum salts 2 hours before or 6 hours after using antacids while on this medication.
+DB00254#####Take with a full glass of water Do not take calcium, aluminum, magnesium or Iron supplements within 2 hours of taking this medication.
+DB00256#####Do not to take any indigestion remedies, iron or zinc supplements at the same time as this medicine.
+DB00261#####Food appears to reduce the area under the curve by 13.8%, without clinical consequence.
+DB00261#####Take without regard to meals.
+DB00262#####Echinacea
+DB00264#####Avoid alcohol.
+DB00264#####Avoid natural licorice.
+DB00264#####Take with food.
+DB00273#####Following a single dose of the extended-release formulation with a high fat meal, Cmax of topiramate increased by 37% and shortened the Tmax to approximately 8 hours. AUC was not effected. According to the FDA label, Trokendi XR can be taken without regard to food.
+DB00275#####Food does not affect the bioavailability of olmesartan.
+DB00277#####Avoid alcohol.
+DB00277#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00277#####Take with food.
+DB00278#####Herbs and food with anticoagulant/antiplatelet activity. Major interactions may occur with danshen, dong quai, evening primrose oil, gingko, policosanol, willow bark
+DB00280#####Avoid alcohol.
+DB00280#####Take without regard to meals.
+DB00283#####Avoid alcohol.
+DB00283#####Take with food.
+DB00284#####Take with food, at beginning of each meal.
+DB00285#####Avoid alcohol.
+DB00285#####Avoid St.John's Wort.
+DB00285#####Take with food.
+DB00289#####In the presence of food, the absorption rate is reduced, without the quantity absorbed being affected.
+DB00289#####Take without regard to meals.
+DB00291#####Drink liberally.
+DB00291#####Echinacea should be used with caution, if at all, in patients receiving therapeutic immunosuppressants. Monitor for reduced efficacy of the immunosuppressant during concomitant use.
+DB00291#####Food reduces bioavailability.
+DB00291#####Take on an empty stomach.
+DB00294#####Avoid alcohol.
+DB00294#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00294#####Increase dietary intake of magnesium, folate, vitamin B6, B12, and/or consider taking a multivitamin.
+DB00294#####Take at the same time everyday.
+DB00294#####Take with food.
+DB00295#####Avoid alcohol.
+DB00295#####Take with food.
+DB00295#####To avoid constipation: increase your daily intake of fiber (beans, whole grains, vegetables).
+DB00300#####When given with a high-fat meal, the oral bioavailability, AUC, and Cmax increased. 
+DB00301#####Take on an empty stomach.
+DB00310#####Take with food (increases availability).
+DB00313#####Avoid alcohol.
+DB00313#####Do not take with milk.
+DB00313#####Take with food.
+DB00316#####Avoid alcohol (may increase risk of hepatotoxicity).
+DB00316#####Take without regard to meals.
+DB00317#####Avoid fresh grapefruit and its juice during therapy as grapefruit may increase serum product levels.
+DB00317#####Take without regard to meals.
+DB00318#####Avoid alcohol.
+DB00318#####Take with food, food reduces irritation.
+DB00318#####To avoid constipation: increase your daily intake of fiber (beans, whole grains, vegetables).
+DB00321#####Avoid alcohol.
+DB00321#####Avoid excessive quantities of coffee or tea (caffeine).
+DB00321#####Avoid St.John's Wort.
+DB00321#####Take with food to reduce irritation.
+DB00327#####Take without regard to meals. Avoid alcohol.
+DB00328#####Avoid alcohol.
+DB00328#####Take with food or antacids to reduce irritation.
+DB00330#####Take with food to reduce irritation.
+DB00331#####Avoid alcohol.
+DB00331#####Take with food to reduce gastric irritation.
+DB00333#####Take without regard to meals. Avoid alcohol. Usually diluted in fruit juice.
+DB00334#####Avoid alcohol.
+DB00334#####Take without regard to meals.
+DB00335#####Consult your doctor before taking large amounts of Vitamin K (Green leafy vegetables).
+DB00335#####Take 30-60 minutes before meals, take at the same time each day.
+DB00338#####Avoid alcohol.
+DB00338#####Take 30-60 minutes before meals.
+DB00339#####Take without regard to meals.
+DB00341#####Avoid alcohol.
+DB00341#####Take without regard to meals.
+DB00343#####Avoid natural licorice.
+DB00343#####Take this medication 30 minutes before meals.
+DB00346#####Take after a meal (always the same meal), product bioavailability is reduced when taken on an empty stomach.
+DB00349#####Alcohol increases clobazam absorption by 50%.
+DB00349#####Take without regard to meals.
+DB00350#####Take without regard to meals.
+DB00351#####Take with food.
+DB00356#####Avoid alcohol.
+DB00356#####Take without regard to meals.
+DB00357#####Take without regard to meals.
+DB00358#####Avoid alcohol.
+DB00358#####Take with a full glass of water.
+DB00358#####Take with food.
+DB00363#####Avoid alcohol.
+DB00363#####Limit caffeine intake (may reduce clozapine matabolism).
+DB00363#####Take without regard to meals.
+DB00364#####Avoid alcohol.
+DB00364#####Do not take calcium, aluminum, magnesium or Iron supplements within 2 hours of taking this medication.
+DB00364#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00364#####Take with a full glass of water.
+DB00365#####Drink liberally but avoid coffee.
+DB00365#####Take without regard to meals.
+DB00367#####Avoid alcohol.
+DB00367#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00367#####Increase dietary intake of magnesium, folate, vitamin B6, B12, and/or consider taking a multivitamin.
+DB00367#####Take at the same time everyday.
+DB00367#####Take with food.
+DB00370#####Take without regard to meals. Avoid alcohol.
+DB00371#####Take without regard to meals. Avoid alcohol.
+DB00375#####Take with food.
+DB00379#####Take with food to reduce irritation.
+DB00381#####Avoid natural licorice.
+DB00381#####Grapefruit down regulates post-translational expression of CYP3A4, the major metabolizing enzyme of amlodipine. Grapefruit, in all forms (e.g. whole fruit, juice and rind), can significantly increase serum levels of amlodipine and may cause toxicity. Avoid grapefruit products while on this medication. 
+DB00381#####Take without regard to meals.
+DB00388#####Take without regard to meals.
+DB00390#####Avoid avocado.
+DB00390#####Avoid bran and high fiber foods within 2 hours of taking this medication.
+DB00390#####Avoid excess salt/sodium unless otherwise instructed by your physician.
+DB00390#####Avoid milk, calcium containing dairy products, iron, antacids, or aluminum salts 2 hours before or 6 hours after using antacids while on this medication.
+DB00390#####Avoid salt substitutes containing potassium.
+DB00390#####Limit garlic, ginger, gingko, and horse chestnut.
+DB00393#####Grapefruit down regulates post-translational expression of CYP3A4, the major metabolizing enzyme of nimodipine. Grapefruit, in all forms (e.g. whole fruit, juice and rind), can significantly increase serum levels of nimodipine and may cause toxicity. Avoid grapefruit products while on this medication.
+DB00393#####Take at the same time each day, with or without food, but always in the same manner.
+DB00394#####No food effects were found when given with beclomethasone dipropionate.
+DB00395#####Avoid alcohol.
+DB00395#####Take without regard to meals.
+DB00396#####Avoid alcohol.
+DB00396#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00396#####Increase dietary intake of magnesium, folate, vitamin B6, B12, and/or consider taking a multivitamin.
+DB00396#####Take at the same time everyday.
+DB00396#####Take with food.
+DB00397#####Limit caffeine intake.
+DB00397#####Take without regard to meals.
+DB00400##### Avoid alcohol.
+DB00400#####Take this medication with a high fat meal, fatty foods increase bioavailability.
+DB00401#####Do not take with grapefruit juice as this has been shown to interfere with nisoldipine metabolism, resulting in a mean increase in C&lt;sub&gt;max&lt;/sub&gt; of about 3-fold (up to about 7-fold) and AUC of almost 2-fold (up to 5-fold).
+DB00404#####Avoid alcohol.
+DB00404#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00404#####Avoid taking with grapefruit juice.
+DB00404#####Take with food.
+DB00408#####Take with food to reduce irritation. Avoid alcohol.
+DB00409#####Take without regard to meals.
+DB00413#####Take without regard to meals, however if nausea is a problem, taking the product with food may reduce its incidence.
+DB00414#####Avoid alcohol.
+DB00414#####Take without regard to meals.
+DB00415#####Take on an empty stomach.
+DB00417#####Absorption is increased when taken on an empty stomach (one hour before or two hours after meals).
+DB00419#####Take without regard to meals, but always at the same time and in the same way.
+DB00421#####Avoid alcohol.
+DB00421#####Food increases the bioavailability of spironolactone by almost 100%. 
+DB00421#####Spironolactone may decrease the excretion of potassium. Salt substitutes containing potassium increase the risk of hyperkalemia.
+DB00422#####Avoid alcohol.
+DB00422#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00422#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00423#####Avoid alcohol.
+DB00423#####Take without regard to meals.
+DB00424#####Take 30 minutes before meals, and at bedtime.
+DB00425#####Avoid alcohol.
+DB00425#####Should not be administered with or immediately after a meal.
+DB00426#####Take without regard to meals.
+DB00433#####Avoid alcohol.
+DB00433#####Take with a full glass of water Avoid excessive quantities of coffee or tea (Caffeine).
+DB00433#####Take with food.
+DB00434#####Avoid alcohol.
+DB00434#####Take with food.
+DB00436#####Take with food to increase bioavailability.
+DB00437#####Avoid alcohol.
+DB00437#####Take with a full glass of water.
+DB00437#####Take with food.
+DB00439#####Grapefruit and grapefruit juice should be avoided throughout treatment as grapefruit can significantly increase serum levels of this product.
+DB00439#####Take without regard to meals.
+DB00440#####Do not take calcium, aluminium, magnesium or iron supplements within 2 hours of taking this medication.
+DB00440#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00440#####Take with a full glass of water.
+DB00442#####Take on an empty stomach.
+DB00442#####Taking the product with a high-fat meal or a light snack reduces the maximal concentration by 44 to 46% and total exposure by 18 to 20%.
+DB00443#####Take with food to reduce irritation.
+DB00445#####Liberal fluid intake to increase urine output and help the excretion of uric acid.
+DB00446#####Take on an empty stomach.
+DB00447#####Take on an empty stomach. Food reduces Cmax by 50 to 60%.
+DB00448#####Avoid alcohol.
+DB00448#####Food reduces bioavailabilty, but this has very little clinical impact.
+DB00448#####Take 30-60 minutes before meals.
+DB00451#####Absorption increased in fasting state and decreased in malabsorption states.
+DB00451#####Consistent administration in relation to meals is recommended.
+DB00451#####No iron or calium carbonate within 4 hours of taking this medication.
+DB00451#####Oral administration with infant soybean formula, soybean flour, cotton seed meal, walnuts, foods containing large amounts of fiber, ferrous sulfate, and antacids may decrease drug absorption. 
+DB00451#####Take 30-60 minutes before breakfast.
+DB00454#####Take without regard to meals. Avoid alcohol.
+DB00455#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00457#####Avoid alcohol.
+DB00457#####Avoid natural licorice.
+DB00457#####Take without regard to meals.
+DB00458#####Avoid alcohol.
+DB00458#####Avoid excessive quantities of coffee or tea (caffeine).
+DB00458#####Avoid St.John's Wort.
+DB00458#####Do not take fibers at the same time.
+DB00458#####Take with food.
+DB00461#####Avoid alcohol.
+DB00461#####Take with food for faster absorption.
+DB00465#####Take with food to reduce GI irritation
+DB00468#####Take with food to reduce irritation.
+DB00470#####Avoid alcohol.
+DB00470#####Take without regard to meals.
+DB00471#####Take without regard to meals.
+DB00472#####Avoid alcohol.
+DB00472#####Take with food to reduce irritation and nausea.
+DB00475#####Avoid alcohol.
+DB00475#####Take without regard to meals.
+DB00476#####Food does not affect maximum levels reached, but delays it (from 6 to 10 hours) and total product exposure appears to be reduced by only 10%.
+DB00476#####People taking this product who drink large amounts of alcohol are exposed to a higher risk of liver toxicity.
+DB00476#####Take without regard to meals.
+DB00477#####Avoid alcohol.
+DB00477#####Take with food to reduce irritation.
+DB00480#####When given with a fatty meal, the extent of absorption is reduced.
+DB00481#####Avoid alcohol.
+DB00481#####Take without regard to meals.
+DB00482#####Take without regard to meals.
+DB00482#####Taking this product with a high-fat meal will delay the Cmax, but total absorption will be increased by 10 to 20%.
+DB00485#####Take on an empty stomach, food decreases the availability.
+DB00486#####Take without regard to meals. Avoid alcohol.
+DB00490#####Always take at the same time with respect to meals.
+DB00490#####Avoid alcohol.
+DB00490#####Avoid taking grapefruit or grapefruit juice throughout treatment.
+DB00490#####Take with food.
+DB00491#####Take with food, at beginning of each meal. Iron needs increased.
+DB00492#####Do not take calcium, aluminum, magnesium or iron supplements, or antacids within 2 hours of taking this medication.
+DB00492#####Fosinopril may decrease the excretion of potassium. Salt substitutes containing potassium may increase the risk of hyperkalemia. 
+DB00492#####Herbs that may attenuate the antihypertensive effect of fosinopril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice. 
+DB00492#####High salt intake may attenuate the antihypertensive effect of fosinopril. 
+DB00492#####Take without regard to meals.
+DB00494#####Take without regard to meals.
+DB00496#####Take without regard to meals.
+DB00497#####Take without regard to meals. Avoid alcohol.
+DB00499#####Take without regard to meals.
+DB00501#####Avoid alcohol.
+DB00501#####Best effect when taken with food.
+DB00501#####Limit caffeine intake.
+DB00502#####Take with food to reduce irritation, limit caffeine intake. Avoid alcohol.
+DB00503#####Avoid St.John's Wort.
+DB00503#####Take with food.
+DB00509#####Take without regard to meals.
+DB00513#####Take without regard to meals.
+DB00514#####Take without regard to meals.
+DB00515#####Echinacea should be used with caution, if at all, in patients receiving therapeutic immunosuppressants. Monitor for reduced efficacy of the immunosuppressant during concomitant use. 
+DB00519#####Herbs that may attenuate the antihypertensive effect of trandolapril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice.  
+DB00519#####High salt intake may attenuate the antihypertensive effect of trandolapril. 
+DB00519#####Take without regard to meals.
+DB00519#####Trandolapril may decrease the excretion of potassium. Salt substitutes containing potassium may increase the risk of hyperkalemia. 
+DB00524#####Take with food to reduce gastric irritation.
+DB00530#####Take at least 1 hour before or 2 hours after any food.
+DB00530#####Take with a glass of water.
+DB00531#####Drink liberally- 2 to 3 liters/day.
+DB00531#####Take with food to reduce irritation.
+DB00535#####Avoid taking antacids at same time (up to 2 hours before or after antibiotic).
+DB00535#####Avoid taking iron preparations at same time (up to 2 hours before or after antibiotic).
+DB00535#####Take without regard to meals.
+DB00537#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00537#####Avoid milk, calcium containing dairy products, iron, magnesium, zinc, antacids, or aluminum salts 2 hours before or 6 hours after using antacids while on this medication.
+DB00537#####Take with a full glass of water.
+DB00537#####Take without regard to meals.
+DB00540#####Avoid alcohol.
+DB00540#####Avoid excessive quantities of coffee or tea (caffeine).
+DB00540#####Take with food to reduce irritation.
+DB00542#####Benazepril may decrease the excretion of potassium. Salt um may increase the risk of hyperkalemia. substitutes containing potassi
+DB00542#####Food slows absorption without decreasing the quantity absorbed.
+DB00542#####Herbs that may attenuate the antihypertensive effect of benazepril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice. 
+DB00542#####High salt intake may attenuate the antihypertensive effect of benazepril.
+DB00542#####Take without regard to meals.
+DB00543#####Avoid alcohol.
+DB00543#####Take with food to reduce irritation.
+DB00544#####Vitamin B1 needs increased with long term use.
+DB00545#####Take with food to decrease adverse effects.
+DB00549#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00550#####Take at the same time everyday.
+DB00553#####Take with food or milk, or in two divided doses 30 minutes apart to decrease nausea.
+DB00554#####Take with food. Avoid alcohol.
+DB00555#####Take without regard to meals.
+DB00557#####Avoid alcohol.
+DB00557#####Take with food.
+DB00559#####Take without regard to meals.
+DB00563#####Milk appears to reduce its absorption.
+DB00563#####Take without regard to meals. Limit caffeine intake.
+DB00564#####Avoid alcohol.
+DB00564#####Avoid taking grapefruit or grapefruit juice throughout treatment.
+DB00564#####Grapefruit can significantly increase serum levels of this product.
+DB00564#####Take with food, increases availability and reduces irritation.
+DB00567#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00571#####Avoid alcohol.
+DB00571#####Avoid natural licorice.
+DB00571#####Take with food.
+DB00572#####Avoid alcohol.
+DB00572#####Take with food.
+DB00573#####Avoid alcohol.
+DB00573#####Take with food to reduce irritation.
+DB00574#####Take without regard to meals.
+DB00575#####Avoid alcohol.
+DB00575#####Take without regard to meals.
+DB00578#####Take on an empty stomach.
+DB00579#####If product causes GI problems, it can be taken during meals.
+DB00579#####May be taken without regard to meals, but preferably 1 hour before a meal.
+DB00581#####Take without regard to meals. Drink liberally.
+DB00584#####Enalapril decreases the excretion of potassium. Salt substitutes containing potassium increase the risk of hyperkalemia. 
+DB00584#####Herbs that may attenuate the antihypertensive effect of enalapril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice.  
+DB00584#####High salt intake may attenuate the antihypertensive effect of enalapril.
+DB00584#####Take without regard to meals.
+DB00585#####Avoid alcohol.
+DB00585#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00585#####Do not take Aluminum or magnesium antacids or supplements while on this medication.
+DB00585#####May take Vitamin D.
+DB00585#####No iron, zinc or fluoride within 2 hours of taking this medication.
+DB00585#####Take without regard to meals.
+DB00586#####Avoid alcohol.
+DB00586#####Take with food to reduce irritation.
+DB00590#####Avoid alcohol.
+DB00590#####Avoid natural licorice.
+DB00590#####Take without regard to meals.
+DB00592#####Take without regard to meals.
+DB00593#####Avoid alcohol.
+DB00593#####Take with food.
+DB00594#####Avoid drastic changes in dietary habit.
+DB00594#####Avoid natural licorice.
+DB00594#####Avoid salt substitutes containing potassium.
+DB00594#####Take with food to reduce irritation.
+DB00598#####Take without regard to meals.
+DB00601#####Take without regard to meals.
+DB00602#####When administered with a high fat meal, the bioavailability is increased 2.5 times.
+DB00603#####Take with food.
+DB00604#####Grapefruit and grapefruit juice should be avoided throughout treatment, grapefruit can significantly increase serum levels of this product.
+DB00604#####Increases absorption, take 30 minutes before a meal.
+DB00608#####Take with food to reduce irritation and increase bioavailability.
+DB00611#####Avoid alcohol.
+DB00612#####Take without regard to meals.
+DB00615#####High-fat meals slow the rate of absorption.
+DB00615#####Take with food to reduce irritation.
+DB00618#####Avoid milk and multivalent ions.
+DB00618#####Take on an empty stomach.
+DB00619#####Take with food to reduce the incidence of gastric irritation. Follow with a large glass of water. A lipid rich meal will slightly reduce and delay absorption. Avoid grapefruit and grapefruit juice throughout treatment, grapefruit can significantly increase serum levels of this product.
+DB00622#####Grapefruit and grapefruit juice should be avoided throughout treatment. Grapefruit can increase serum levels of this product.
+DB00622#####Take without regard to meals.
+DB00623#####Avoid alcohol.
+DB00623#####Take with food to reduce irritation.
+DB00625#####Avoid excessive or chronic alcohol consumption.
+DB00625#####Take without regard to meals.
+DB00627#####Avoid alcohol.
+DB00627#####Take with food.
+DB00628#####Avoid alcohol.
+DB00628#####Take without regard to meals.
+DB00630#####Take 30-60 minutes before breakfast.
+DB00630#####Take with a full glass of water.
+DB00631#####Echinacea should be used with caution, if at all, in patients receiving therapeutic immunosuppressants. Monitor for reduced efficacy of the immunosuppressant during concomitant use. 
+DB00635#####Avoid alcohol.
+DB00635#####Avoid taking with grapefruit juice.
+DB00635#####Take with food to reduce irritation.
+DB00635#####When Rayos, the delayed-release tablet, is taken without food, Cmax and bioavailability were lower compared to the fed state. 
+DB00636#####Take with food, since it may reduce gastric irritation.
+DB00637#####Take on an empty stomach, food decreases absorption by 60%.
+DB00640#####Avoid caffeine containing foods and drinks.
+DB00641#####Avoid alcohol.
+DB00641#####Avoid drastic changes in dietary habit.
+DB00641#####Avoid taking with grapefruit juice.
+DB00643#####Lipid rich meals may improve absorption.
+DB00643#####Take with food.
+DB00646#####Take without regard to meals.
+DB00647#####Take without regard to meals. Avoid alcohol.
+DB00648#####Take without regard to meals.
+DB00652#####Take without regard to meals. Avoid alcohol.
+DB00656#####Avoid alcohol.
+DB00656#####Food decreases the rate and extent of absorption. 
+DB00659#####Take without regard to meals.
+DB00659#####Taking the product with food reduces its C&lt;sub&gt;max&lt;/sub&gt; by 42% and total drug exposure by 23% (not considered significant).
+DB00661#####Avoid alcohol.
+DB00661#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00661#####Avoid natural licorice.
+DB00661#####Avoid taking with grapefruit juice.
+DB00661#####Take with food.
+DB00665#####Avoid alcohol.
+DB00665#####Take before breakfast.
+DB00670#####Take 30 minutes before breakfast and at bedtime.
+DB00671#####Preferably on an empty stomach, rate of absorption is decreased but extenet of absorption remains the same: not really problematic.
+DB00672#####Avoid alcohol.
+DB00672#####Food reduces the rate of absorption.
+DB00672#####Take 30 minutes before meal.
+DB00673#####Take without regard to meals.
+DB00674#####Take with food.
+DB00678#####Take without regard to meals. Take at same time each day. Food delays absorption, but does not affect the extent of absorption.
+DB00682#####Avoid alcohol.
+DB00682#####Avoid drastic changes in dietary habit.
+DB00682#####Avoid St. John's Wort.
+DB00682#####Consult your doctor before ingesting large amounts of dietary Vitamin K (e.g. from green leafy vegetables).
+DB00682#####Limit garlic, ginger, gingko, and horse chestnut.
+DB00683#####Grapefruit juice slows the product's absorption and significantly increases its bioavailability.
+DB00686#####Take on an empty stomach, 1 hour before or 2 hours after meals.
+DB00687#####Avoid excess salt/sodium unless otherwise instructed by your physician.
+DB00687#####Take with food to reduce irritation.
+DB00688#####Do not take calcium, aluminium, magnesium or iron supplements within 2 hours of taking this medication.
+DB00688#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00690#####Avoid alcohol.
+DB00690#####Take without regard to meals.
+DB00691#####Herbs that may attenuate the antihypertensive effect of moexipril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice. 
+DB00691#####High salt intake may attenuate the antihypertensive effect of moexipril.  
+DB00691#####Moexipril may decrease the excretion of potassium. Salt substitutes containing potassium may increase the risk of hyperkalemia. 
+DB00691#####Take moexipril one hour before or two hours after meals. 
+DB00695#####Avoid alcohol.
+DB00695#####Avoid excess salt/sodium unless otherwise instructed by your physician.
+DB00695#####Increase potassium intake; add a banana or orange juice; unless instructed otherwise.
+DB00695#####Take with food to reduce irritation.
+DB00696#####Caffeine increases absorption.
+DB00696#####Take without regard to meals.
+DB00698#####Do not take magnesium at the same time.
+DB00698#####Take with food since it increases bioavailability and reduces irritation.
+DB00701#####Avoid alcohol, especially with the oral solution since it contains propylene glycol which competes with alcohol for alcohol dehydrogenase metabolism.
+DB00701#####Take with or without food, however avoid lipid-rich meals.
+DB00701#####Vitamin E increases amprenavir bioavailability.
+DB00703#####Take with food, more than 6 hours before bedtime increase liquid intake.
+DB00704#####Take without regard to meals.
+DB00705#####Take without regard to meals.
+DB00706#####Take 30 minutes after a meal (always after the same meal). Taking the drug with food minimizes plasma levels variations.
+DB00709#####Take without regard to meals. Food does not decrease the extent of absorption, but it decreases the Cmax by slowing the rate of absorption.
+DB00710#####Take on an empty stomach. All foods markedly reduce (up to 90%) ibandronate bioavailabilty. Take with plain water (not mineralized) at least 1 hour before any food. Bioavailability and effect on bone density are both impaired if the patient eats or drinks in less than 1 hour after taking this product. Drink a large glass of water and stay in an upright position for at least 60 minutes after taking this product.
+DB00712#####Avoid alcohol.
+DB00712#####Take with food to reduce gastric irritation.
+DB00715#####Take without regard to meals. Avoid alcohol.
+DB00717#####Take without regard to meals.
+DB00718#####Take without regard to meals.
+DB00719#####Avoid alcohol.
+DB00719#####Take with food to reduce irritation.
+DB00720#####Food decreases absorption. Take on an empty stomach.
+DB00722#####Herbs that may attenuate the antihypertensive effect of lisinopril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice. 
+DB00722#####High salt intake may attenuate the antihypertensive effect of lisinopril.
+DB00722#####Lisinopril decreases the excretion of potassium. Salt substitutes containing potassium increase the risk of hyperkalemia. 
+DB00722#####Take without regard to meals.
+DB00727#####Avoid alcohol.
+DB00727#####Dissolve under the tongue.
+DB00727#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00731#####Take upto 30 minutes before meals.
+DB00736#####Take without regard to meals.
+DB00737#####Take with food to reduce irritation. Avoid alcohol.
+DB00740#####Take on an empty stomach 1 hour before or 2 hours after meals.
+DB00741#####Take with food to reduce irritation. Calcium, phosphorous, potassium, Vitamin A, C, D and zinc needs increased with long term use.
+DB00745#####Take without regard to meals.
+DB00749#####Avoid alcohol.
+DB00749#####Food increases the peak plasma concentration of extended-release tablets with no effect on extent of absorption.
+DB00749#####Food increases the time to peak concentration of regular release oral formulations by 1.4 to 3.8 hours with no effect on extent of absorption. 
+DB00749#####Take with food to reduce gastric irritation.
+DB00752#####Avoid aged foods (chesse, red wine), pickled foods, cured foods (bacon/ham), chocolate, fava beans, beer, unless approved by your physician.
+DB00752#####Avoid alcohol.
+DB00752#####Avoid excessive quantities of coffee or tea (caffeine).
+DB00752#####Avoid St. John's Wort.
+DB00757#####Take without regard to meals.
+DB00759#####Avoid milk, calcium containing dairy products, iron, antacids, or aluminium salts 2 hours before or 6 hours after using antacids while on this medication.
+DB00759#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00759#####Take with a full glass of water.
+DB00761#####Take with a full glass of water Take after a full meal.
+DB00763#####Always take at the same moment in regard to meals, food may affect absorption unpredictably.
+DB00773#####Grapefruit and grapefruit juice should be avoided throughout treatment as grapefruit can decrease serum levels of this product.
+DB00776#####Take without regard to meals. Avoid alcohol.
+DB00779#####Take with food to reduce irritation. Drink liberally.
+DB00780#####Avoid aged foods (cheese, red wine), pickled foods, cured foods (bacon/ham), chocolate, fava beans, beer, unless approved by your physician.
+DB00780#####Avoid alcohol.
+DB00780#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00780#####Avoid St.John's Wort.
+DB00780#####Take without regard to meals.
+DB00783#####Take with food to decrease nausea.
+DB00784#####Avoid alcohol.
+DB00784#####Take with food.
+DB00787#####Increase liquid intake.
+DB00787#####Take without regard to meals.
+DB00788#####Avoid alcohol.
+DB00788#####Take with a full glass of water.
+DB00788#####Take with food.
+DB00790#####Herbs that may attenuate the antihypertensive effect of perindopril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice. 
+DB00790#####High salt intake may attenuate the antihypertensive effect of perindopril.
+DB00790#####Perindopril may decrease the excretion of potassium. Salt substitutes containing potassium may increase the risk of hyperkalemia. 
+DB00790#####Take without regard to meals.
+DB00794#####Avoid alcohol.
+DB00794#####Avoid high doses of caffeine.
+DB00794#####Take with food to reduce gastric irritation.
+DB00795#####May take Vitamin D.
+DB00795#####Take with a full glass of water No iron, zinc or fluoride within 2 hours of taking this medication.
+DB00795#####Take with food.
+DB00796#####Administer on a regular basis, at about the same time each day.
+DB00796#####Take without regard to meals.
+DB00804#####Avoid alcohol.
+DB00804#####Take this medication 30 minutes before meals.
+DB00806#####Take with food to reduce irritation. Limit caffeine intake.
+DB00808#####Take without regard to meals. Magnesium, potassium and zinc needs increased.
+DB00810#####Avoid alcohol.
+DB00810#####Take with food.
+DB00812#####Take with food to reduce irritation. Avoid alcohol.
+DB00813#####Avoid alcohol.
+DB00814#####Take without regard to meals.
+DB00816#####Avoid high doses of caffeine.
+DB00816#####Take without regard to meals.
+DB00819#####Drink plenty of liquids.
+DB00819#####Take with food; at least 6 hours before bedtime.
+DB00822#####Avoid alcohol for up to 14 days after treatment has been stopped.
+DB00822#####Take without regard to meals.
+DB00828#####Food decreases Cmax slightly.
+DB00828#####Take without regard to meals.
+DB00829#####Avoid alcohol.
+DB00829#####Avoid excessive quantities of coffee or tea (caffeine).
+DB00829#####Avoid taking with grapefruit or grapefruit juice as grapefruit can significantly increase serum levels of this product.
+DB00829#####Take with food.
+DB00833#####Preferably on an empty stomach, not really problematic.
+DB00835#####Avoid alcohol.
+DB00835#####Take with food.
+DB00836#####Take without regard to meals. Increase liquid intake.
+DB00842#####Avoid alcohol.
+DB00842#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00842#####Take with food.
+DB00843#####Avoid alcohol.
+DB00843#####Take without regard to meals.
+DB00847#####Avoid administration of delayed release cysteamine less than 30 minutes before and within 2 hours after ingesting food due to decreased bioavailability of cysteamine.
+DB00848#####Take on an empty stomach.
+DB00850#####Avoid alcohol.
+DB00850#####Do not take calcium, aluminum, magnesium or Iron supplements within 2 hours of taking this medication.
+DB00850#####Take with food.
+DB00852#####Take without regard to meals.
+DB00854#####Take without regard to meals. Avoid alcohol.
+DB00859#####Drink liberally.
+DB00859#####Food reduces availability, take on an empty stomach.
+DB00860#####Avoid alcohol. Avoid caffeine.
+DB00860#####Take with food to reduce gastric irritation.
+DB00861#####Avoid alcohol.
+DB00861#####Food slightly delays rate of absorption with no effect on extent of absorption. 
+DB00861#####Take with food to reduce gastric irritation.
+DB00863#####Avoid alcohol.
+DB00863#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00863#####Avoid milk, calcium containing dairy products, iron, antacids, or aluminum salts 2 hours before or 6 hours after using antacids while on this medication.
+DB00863#####Take without regard to meals.
+DB00864#####Food, especially food with a high-fat content, decreases the rate and extent of absorption.
+DB00864#####The time of the meal affects tacrolimus bioavailability. Take tacrolimus capsules consistently everyday either with or without food. 
+DB00868#####Take without regard to meals.
+DB00874#####Take with a full glass of water.
+DB00874#####Take without regard to meals.
+DB00875#####Avoid alcohol.
+DB00875#####Take with food to reduce irritation.
+DB00876#####Take without regard to meals.
+DB00879#####Take without regard to meals.
+DB00881#####Do not take with a high-fat meal.
+DB00881#####Herbs that may attenuate the antihypertensive effect of quinapril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice. 
+DB00881#####High salt intake may attenuate the antihypertensive effect of quinapril.
+DB00881#####Quinapril may decrease the excretion of potassium. Salt substitutes containing potassium may increase the risk of hyperkalemia. 
+DB00882#####Take without regard to meals.
+DB00883#####Take without regard to meals. Absorption is faster on an empty stomach.
+DB00887#####Take with food to reduce irritation.
+DB00889#####Take without regard to meals.
+DB00900#####Avoid alcohol.
+DB00900#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00903#####Take with food to reduce irritation.
+DB00904#####Take without regard to meals.
+DB00908#####Preferably take on an ampty stomach.
+DB00912#####Take up to 30 minutes before meals.
+DB00912#####When taken with a high-fat meal, AUC and Cmax decreases.
+DB00913#####Take without regard to meals.
+DB00915#####Avoid alcohol.
+DB00915#####Take without regard to meals.
+DB00916#####Avoid alcohol.
+DB00916#####Take with food to reduce irritation.
+DB00918#####Take without regard to meals.
+DB00918#####The absorption is unaffected by food.
+DB00920#####Take without regard to meals.
+DB00924#####Avoid alcohol.
+DB00924#####Take with food to reduce irritation.
+DB00926#####Avoid alcohol completely up to 2 months after discontinuation.
+DB00926#####Increases absorption, take with food.
+DB00927#####Avoid alcohol.
+DB00927#####Limit caffeine intake.
+DB00927#####Take without regard to meals, food may slightly increase the product's bioavailability.
+DB00929#####Take with food to decrease the incidence of diarrhea.
+DB00930#####Drink liberally.
+DB00930#####Take with a meal.
+DB00933#####Take with food to reduce irritation.
+DB00934#####Take without regard to meals. Limit caffeine intake.
+DB00937#####Take without regard to meals.
+DB00943#####Do not take calcium, aluminium, magnesium or iron supplements within 2 hours of taking this medication.
+DB00943#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00945#####Avoid alcohol, alcohol appears to cause a 50 to 100% increases in ASA serum levels.
+DB00945#####Take with a full glass of water.
+DB00945#####Take with food to reduce gastric irritation.
+DB00949#####Taking it after a meal may reduce the incidence of adverse effects.
+DB00950#####Grapefruit and grapefruit juice should be avoided throughout treatment as grapefruit can significantly decrease serum levels of this product.
+DB00950#####Take without regard to meals.
+DB00951#####Avoid aged foods (cheese, red wine), pickled foods, cured foods (bacon/ham), chocolate, fava beans, beer, unless approved by your physician.
+DB00951#####Avoid alcohol.
+DB00951#####Do not take calcium, aluminum, magnesium or Iron supplements within 2 hours of taking this medication.
+DB00951#####Increase dietary intake of magnesium, folate, vitamin B6, B12, and/or consider taking a multivitamin.
+DB00951#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB00951#####Take with a full glass of water.
+DB00952#####Take without regard to meals.
+DB00956#####Avoid alcohol.
+DB00956#####Take with food.
+DB00956#####To avoid constipation: increase your daily intake of fiber (beans, whole grains, vegetables).
+DB00957#####Avoid alcohol.
+DB00957#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB00957#####Increase dietary intake of magnesium, folate, vitamin B6, B12, and/or consider taking a multivitamin.
+DB00957#####Take at the same time everyday.
+DB00957#####Take with food.
+DB00958#####Avoid echinacea as it may decrease effectiveness of immunosuppresants like carboplatin
+DB00960#####Magnesium, potassium and zinc needs increased.
+DB00960#####Take without regard to meals. Avoid alcohol.
+DB00967#####Take without regard to meals.
+DB00968#####Avoid alcohol.
+DB00968#####Avoid natural licorice.
+DB00968#####Increase dietary intake of magnesium, folate, vitamin B6, B12, and/or consider taking a multivitamin.
+DB00968#####May take Vitamin D.
+DB00968#####No iron, zinc or fluoride within 2 hours of taking this medication.
+DB00968#####Take without regard to meals.
+DB00969#####Absorption is decreased by about 25% when taken with meals.
+DB00969#####Take without regard to meals.
+DB00973#####Take without regard to meals.
+DB00975#####Coffee and tea can decrease the effect of dipyridamole.
+DB00975#####Take with food to reduce irritation.
+DB00976#####Take without regard to meals.
+DB00980#####Avoid alcohol.
+DB00980#####Do not take with or immediately after a high-fat meal.
+DB00982#####Avoid alcohol.
+DB00982#####Take with a full glass of water Do not take supplements containing Vitamin A.
+DB00982#####Take with high-fat meal to increase absorption.
+DB00985#####Avoid alcohol.
+DB00985#####Take with food.
+DB00986#####Take without regard to meals.
+DB00990#####High-fat meals increase plasma exemestane concentrations by approximately 40%.
+DB00991#####Take with food, usually once a day after breakfast. Food decreases the rate of absorption but not the amount absorbed. Avoid alcohol.
+DB00993#####Take with food to reduce irritation.
+DB00995#####Take with food to reduce irritation.
+DB00996#####Avoid alcohol.
+DB00996#####Take without regard to meals.
+DB00997#####Liberal fluid intake to increase urine output and help the excretion of uric acid.
+DB00998#####Food does not affect amount of absorption but delays maximal levels by about 1 hour.
+DB00998#####Take without regard to meals.
+DB00999#####Avoid alcohol.
+DB00999#####Avoid excess salt/sodium unless otherwise instructed by your physician.
+DB00999#####Avoid natural licorice.
+DB00999#####Do not take calcium, aluminum, magnesium or Iron supplements within 2 hours of taking this medication.
+DB00999#####Increase potassium intake; add a banana or orange juice; unless instructed otherwise.
+DB00999#####Take with food.
+DB01004#####Take with food, food increases bioavailability.
+DB01005#####Take without regard to meals. Drink liberally.
+DB01006#####Take without regard to meals. Food slows absorption without decreasing the quantity absorbed.
+DB01008#####Drink liberally.
+DB01008#####Take without regard to meals.
+DB01009#####Avoid alcohol.
+DB01009#####Food prolongs rate of absorption and decreases peak plasma concentration. Extent of absorption is not affected. 
+DB01009#####Take with food to reduce gastric irritation.
+DB01012#####Food markedly increases product bioavailability.
+DB01012#####Peak levels and area under curve (drug exposure) are increased (82% and 68% respectively) when product is taken with a lipid-rich meal.
+DB01012#####Take with food or soon after a meal.
+DB01015#####Do not take calcium, aluminium, magnesium or iron supplements within 2 hours of taking this medication.
+DB01015#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB01015#####Take with a full glass of water.
+DB01016#####Avoid alcohol.
+DB01016#####Take 30-60 minutes before breakfast.
+DB01017#####Calcium and iron needs increased with long term use.
+DB01017#####Do not take Aluminum or magnesium antacids or supplements while on this medication.
+DB01017#####Take with food.
+DB01019#####Take on empty stomach: 1 hour before or 2 hours after meals to avoid nausea.
+DB01020#####Take without regard to meals.
+DB01023#####Grapefruit down regulates post-translational expression of CYP3A4, the major metabolizing enzyme of nifedipine. Grapefruit, in all forms (e.g. whole fruit, juice and rind), can significantly increase serum levels of nifedipine and may cause toxicity. Avoid grapefruit products while on this medication. 
+DB01023#####Take without regard to meals.
+DB01026#####Avoid alcohol.
+DB01026#####Avoid milk, calcium containing dairy products, iron, antacids, or aluminum salts 2 hours before or 6 hours after using antacids while on this medication.
+DB01026#####Take with food.
+DB01029#####Take without regard to meals.
+DB01032#####Increase liquid intake, avoid alcohol.
+DB01032#####Take with food to reduce irritation.
+DB01033#####Preferably on an empty stomach, drink plenty of liquids, avoid alcohol.
+DB01035#####Avoid alcohol.
+DB01035#####Take with food to reduce irritation.
+DB01036#####Take with food.
+DB01037#####Food increases the oral bioavailability by 3-5 fold.
+DB01039#####Increased absorption- take with meals.
+DB01042#####Take on an empty stomach. Food decreases bioavailabilty by approximately 30%. Increase liquid intake.
+DB01043#####Take without regard to meals.
+DB01044#####Absorption does not seem to be affected by milk or calcium carbonate, however, gatifloxacin bioavailability appears significantly reduced when combined with Ensure&amp;trade; (C&lt;sub&gt;max&lt;/sub&gt; is reduced by about 50% while total drug exposure (AUC) is reduced by about 25%).
+DB01044#####Drink liberally.
+DB01044#####Take without regard to meals.
+DB01045#####Avoid alcohol.
+DB01045#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB01045#####Take with a full glass of water.
+DB01048#####Abacavir is partly metabolised through the alcohol-dehydrogenase enzyme system.
+DB01048#####Alcohol significantly increases abacavir's area under the curve (about 41%).
+DB01048#####Avoid alcohol.
+DB01048#####Take without regard to meals.
+DB01050#####Avoid alcohol
+DB01050#####Food delays the time to reach peak plasma concentrations by 30-60 minutes and reduces peak plasma concentrations by 30-50%. Extent of absorption is unaffected.
+DB01050#####Take with food to reduce gastric irritation.
+DB01058#####Grapefruit and grapefruit juice should be avoided throughout treatment. Grapefruit can increase serum levels of this product.
+DB01058#####Take with food.
+DB01059#####Avoid high doses of caffeine.
+DB01059#####Take on an empty stomach. Drink liberally.
+DB01060#####Take without regard to meals.
+DB01062#####Avoid alcohol.
+DB01062#####Take with food.
+DB01066#####Antacids may reduce the serum concentration of cefditoren. Consider alternative methods to minimize/control acid reflux. If use of antacids cannot be avoided, separate administration by at least several hours to reduce chance of interaction
+DB01067#####Avoid alcohol.
+DB01067#####Avoid sugar and sugary food.
+DB01067#####Take 30-60 minutes before breakfast.
+DB01068#####Avoid alcohol.
+DB01068#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB01068#####Take without regard to meals.
+DB01069#####Take with food to reduce irritation. Avoid alcohol.
+DB01072#####Administration with food reduces pharmacokinetic variability.
+DB01072#####Food increases product absorption.
+DB01073#####Food slightly increases product bioavailability.
+DB01073#####Take without regard to meals.
+DB01075#####Avoid alcohol.
+DB01075#####Take with food.
+DB01076#####Avoid alcohol.
+DB01076#####Avoid drastic changes in dietary habit.
+DB01076#####Avoid taking grapefruit or grapefruit juice throughout treatment. Grapefruit can significantly increase serum levels of this product.
+DB01076#####Food may decrease maximum plasma levels and area under the curve, but this is clinically inconsequential according to the manufacturer.
+DB01076#####Take with low fat meal.
+DB01077#####Avoid aluminium, calcium, iron and magnesium within 2 hours of taking medication. 
+DB01077#####Take on an empty stomach with a full glass of water. 
+DB01079#####Take before a meal, to increase absorption, take 30 minutes before a meal.
+DB01081#####Avoid alcohol.
+DB01081#####Take with food.
+DB01083#####Take with meals, or upto 1 hour after a meal. If patient misses a meal, or has a fat-free meal, he/she may skip the corresponding dose.
+DB01087#####Take with food to decrease dyspepsia.
+DB01095#####May be taken with or without food, but should be taken consistently.
+DB01095#####When given with an evening meal, Cmax and AUC decreased while Tmax increased 2-fold
+DB01097#####Take without regard to meals.
+DB01100#####Grapefruit and grapefruit juice should be avoided throughout treatment. Grapefruit can increase serum levels of this product.
+DB01100#####Take without regard to meals.
+DB01101#####Take 12 hours apart, within 30 minutes of the end of breakfast and dinner to reduce nausea.
+DB01104#####Avoid alcohol.
+DB01104#####Avoid St.John's Wort.
+DB01104#####Avoid taking with grapefruit juice.
+DB01104#####Take with food.
+DB01107#####Take without regard to meals.
+DB01109#####Adequate calcium intake is recommended, needs increased with long term use, supplement recommended.
+DB01109#####Many herbs with anticoagulant properties (e.g. ginger, garlic, ginseng, green tea, evening primrose) may increase the risk of bleeding in patients on anticoagulant therapy such as heparin
+DB01112#####Take with food to increase absorption.
+DB01114#####Avoid alcohol.
+DB01114#####Take with food.
+DB01115#####Avoid alcohol.
+DB01115#####Avoid natural licorice.
+DB01115#####Grapefruit down-regulates post-translational expression of CYP3A4, the major metabolizing enzyme of nifedipine. Grapefruit, in all forms (e.g. whole fruit, juice and rind), can significantly increase serum levels of nifedipine and may cause toxicity. Avoid grapefruit products while on this medication. 
+DB01115#####Take with low fat meal.
+DB01117#####Fatty foods increase absorption.
+DB01117#####Take with food, bioavailability is increased 2 to 3 fold.
+DB01118#####Grapefruit and grapefruit juice should be avoided throughout treatment.
+DB01118#####Grapefruit can significantly increase serum levels of this product.
+DB01118#####Take without regard to meals.
+DB01120#####Avoid alcohol.
+DB01120#####Take without regard to meals. A consistent diet is recommended to reduce the risk of hypoglycemia.
+DB01121#####May be taken with food if stomach upset occurs.
+DB01126#####Take without regard to meals.
+DB01128#####Take without regard to meals, at the same time everyday.
+DB01129#####Take without regard to meals.
+DB01129#####Take without regard to meals. Food may slow absorption rate but extent of absorption is not affected.
+DB01131#####Take with food.
+DB01132#####Take without regard to meals. Food slightly delays absorption rate but extent of absorption is not affected.
+DB01133#####Do not take aluminum or magnesium-containing antacids within 2 hours of taking tiludronate. 
+DB01133#####Take on an empty stomach (at least 2 hours before or after meals) with a full glass of plain water. Other beverages may reduce drug absorption. 
+DB01136#####Take with food, food slows the absorption rate and reduces the incidence of adverse effects (extent of absorption is not affected).
+DB01137#####Take without regard to meals. Take with water, drink lliberally. Taking this product with orange juice can result in reduced quinolone plasma levels. 
+DB01140#####Food may reduce the digestive problems that sometimes occur.
+DB01140#####Take without regard to meals.
+DB01142#####Avoid alcohol.
+DB01142#####Avoid excessive quantities of coffee or tea (caffeine).
+DB01142#####Avoid St.John's Wort.
+DB01142#####Take with food to reduce irritation.
+DB01147#####Take on an empty stomach.
+DB01148#####Food may reduce irritation.
+DB01148#####Take without regard to meals.
+DB01149#####Avoid alcohol.
+DB01149#####Avoid avocado.
+DB01149#####Limit garlic, ginger, gingko, and horse chestnut.
+DB01149#####Take this medication either consistently with or without food as instructed by your doctor.
+DB01150#####Take without regard to meals.
+DB01151#####Avoid alcohol.
+DB01151#####Take with food to reduce irritation, limit caffeine intake.
+DB01155#####Take without regard to meals.
+DB01156#####Avoid alcohol.
+DB01156#####Avoid St.John's Wort.
+DB01156#####Take without regard to meals.
+DB01165#####Avoid high doses of caffeine.
+DB01165#####Take without regard to meals.
+DB01166#####Grapefruit and grapefruit juice should be avoided throughout treatment, grapefruit can significantly increase serum levels of this product.
+DB01166#####Take on an empty stomach, a lipid rich meal will increase absorption.
+DB01167#####Avoid milk, calcium containing dairy products, iron, antacids, or aluminum salts 2 hours before or 6 hours after using antacids while on this medication.
+DB01167#####Avoid taking with grapefruit juice.
+DB01167#####Take after a full meal.
+DB01167#####Take with food.
+DB01170#####Take without regard to meals.
+DB01171#####Food slows absorption a little. Avoid alcohol. Take after meals in order to minimize the risk of interaction with tyramine.
+DB01173#####Take without regard to meals. Avoid alcohol.
+DB01174#####Avoid alcohol.
+DB01174#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB01174#####Increase dietary intake of magnesium, folate, vitamin B6, B12, and/or consider taking a multivitamin.
+DB01174#####Take on an empty stomach for quicker absorption
+DB01175#####Take without regard to meals.
+DB01176#####Avoid alcohol.
+DB01176#####Food may reduce irritation.
+DB01176#####Take without regard to meals.
+DB01182#####Always take at the same time in regard to meals.
+DB01182#####Grapefruit and grapefruit juice should be avoided throughout treatment. Grapefruit can increase serum levels of this product.
+DB01184#####Take 15 to 30 minutes before meals.
+DB01185#####Take with food.
+DB01186#####Take with food to reduce gastric irritation and nausea
+DB01190#####Take with food.
+DB01191#####Take with meals.
+DB01193#####Take without regard to meals; absorption rate and maximal concentration are slightly reduced but the extent of absorption is not affected.
+DB01195#####Take without regard to meals.
+DB01196#####Do not take with milk or milk products.
+DB01196#####Take on an empty stomach.
+DB01197#####Captopril decreases the excretion of potassium. Salt substitutes containing potassium increase the risk of hyperkalemia. 
+DB01197#####Food decreases absorption by 25 - 40%. Clinical significance is debatable. 
+DB01197#####Herbs that may attenuate the antihypertensive effect of captopril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice. 
+DB01197#####High salt intake may attenuate the antihypertensive effect of captopril. 
+DB01200#####Avoid alcohol.
+DB01200#####Take with food to reduce irritation.
+DB01202#####Take without regard to meals. Food does not affect bioavailabilty.
+DB01203#####Avoid alcohol.
+DB01203#####Avoid natural licorice.
+DB01203#####Magnesium, potassium and zinc needs increased.
+DB01203#####Take without regard to meals.
+DB01211#####Biaxin - take without regard to meals (however absorption appears to be improved when drug is taken with food).
+DB01211#####Biaxin XL - take with a meal, taking it on an empty stomach is associated with total product exposure 30% inferior to that observed when administered with food.
+DB01215#####Avoid alcohol.
+DB01215#####Take without regard to meals.
+DB01216#####Take without regard to meals.
+DB01217#####Food decreases the rate of absorption, but the extent of absorption is not affected.
+DB01218#####Take on an empty stomach, bioavailability is 6 times higher when drug is taken with high fat meals. Risks of cardiac toxicity are then increased.
+DB01219#####Take without regard to meals.
+DB01222#####A mean delay in time to peak concentration of 2.5 hours is observed with the intake of a high-fat meal, with no significant differences in AUC.
+DB01223#####Limit caffeine intake.
+DB01223#####Take with food.
+DB01223#####Vitamin B6 needs increased, supplement recommended.
+DB01224#####Avoid alcohol.
+DB01224#####Take without regard to meals.
+DB01225#####Avoid danshen, dong quai, evening primrose oil, gingko, policosanol, willow bark
+DB01229#####Avoid echinacea.
+DB01229#####Avoid grapefruit and grapefruit juice due to potential increase of paclitaxel. 
+DB01230#####Avoid high doses of caffeine.
+DB01230#####Take without regard to meals. Avoid alcohol.
+DB01232#####Take after a full meal.
+DB01233#####Food reduces availability, take 30 minutes before meals. Avoid alcohol.
+DB01234#####Avoid alcohol.
+DB01234#####Avoid taking with grapefruit juice.
+DB01234#####Take with food to reduce irritation.
+DB01238#####Avoid alcohol (possible additive effect to CNS).
+DB01238#####Food has no significant effect on absorption.
+DB01238#####Take without regard to meals.
+DB01239#####Avoid alcohol.
+DB01239#####Take with food to reduce irritation.
+DB01241#####Take 30 minutes before meals.
+DB01242#####Avoid alcohol.
+DB01242#####Grapefruit and grapefruit juice should be avoided throughout treatment, grapefruit can modify serum levels of clomipramine and its metabolite desmethyl-clomipramine.
+DB01242#####Take with food to reduce irritation.
+DB01244#####Alcohol may further decrease blood pressure and increase dizziness and drowsiness
+DB01244#####Take with food to reduce nausea.
+DB01247#####Take without regard to meals, avoid tyramine, caffeine and alcohol.
+DB01261#####Can be administered without regard to food
+DB01264#####Take with food - better absorption (+30%). 
+DB01265#####Take without regard to meals.
+DB01267#####Avoid alcohol.
+DB01270#####No food effects found.
+DB01283#####Take with or without food. Food has no effect on the absorption of the product.
+DB01288#####Take without regard to meals.
+DB01297#####Avoid alcohol.
+DB01297#####Avoid natural licorice.
+DB01303#####Avoid high doses of caffeine.
+DB01303#####Take with food to reduce irritation.
+DB01319#####Avoid alcohol, especially with the oral solution since it contains propylene glycol which competes with alcohol for alcohol dehydrogenase metabolism.
+DB01319#####Take with or without food, however avoid lipid-rich meals.
+DB01319#####Vitamin E increases fosamprenavir bioavailability.
+DB01320#####Avoid alcohol.
+DB01320#####Do not take calcium, aluminum, magnesium or Iron supplements within 2 hours of taking this medication.
+DB01320#####Take with food.
+DB01325#####Take with food to increase bioavailability.
+DB01330#####Avoid alcohol as it can cause a disulfiram effect.
+DB01340#####Food decreases cilazapril absorption with no significant clinical impact.
+DB01340#####Take without regard to meals.
+DB01344#####Avoid calcium, magnesium and potassium.
+DB01344#####Take on an empty stomach.
+DB01348#####Avoid alcohol.
+DB01348#####Do not take calcium, aluminum, magnesium or iron supplements within 2 hours of taking this medication.
+DB01348#####Herbs that may attenuate the antihypertensive effect of spirapril include: bayberry, blue cohash, cayenne, ephedra, ginger, ginseng (American), kola and licorice. 
+DB01348#####High salt intake may attenuate the antihypertensive effect of spirapril.
+DB01348#####Spirapril may decrease the excretion of potassium. Salt substitutes containing potassium may increase the risk of hyperkalemia. 
+DB01356#####Avoid alcohol.
+DB01356#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB01356#####Avoid iodine supplements.
+DB01356#####Do not change your salt intake from day to day without telling your doctor.
+DB01356#####Take with food to reduce irritation. Drink plenty of liquids.
+DB01367#####Avoid alcohol and caffeine.
+DB01394#####Avoid alcohol since it increases uric acid levels.
+DB01394#####Drink liberally.
+DB01394#####Take without regard to meals.
+DB01395#####Food reduces the rate of absorption, but not the extent of absorption. 
+DB01396#####Avoid avocado.
+DB01396#####Avoid bran and high fiber foods within 2 hours of taking this medication.
+DB01396#####Avoid excess salt/sodium unless otherwise instructed by your physician.
+DB01396#####Avoid milk, calcium containing dairy products, iron, antacids, or aluminum salts 2 hours before or 6 hours after using antacids while on this medication.
+DB01396#####Avoid salt substitutes containing potassium.
+DB01396#####Limit garlic, ginger, gingko, and horse chestnut.
+DB01403#####Take with food to reduce irritation.
+DB01406#####Take without regard to meals.
+DB01416#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB01418#####High doses of vitamin A, C, E and K (e.g. avocado, green vegetables)
+DB01421#####Take with food.
+DB01432#####Take with food, do not mix with soft drinks.
+DB01437#####Avoid alcohol.
+DB01437#####Take without regard to meals.
+DB01438#####Take with food to reduce irritation.
+DB01452#####Avoid alcohol
+DB01452#####To avoid constipation: increase your daily intake of fiber (beans, whole grains, vegetables).
+DB01495#####Avoid alcohol.
+DB01501#####Ethanol use may increase CNS depression. 
+DB01544#####Avoid alcohol.
+DB01544#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB01544#####Avoid taking with grapefruit juice.
+DB01544#####Take with food.
+DB01551#####Alcohol may enhance CNS depressant effects
+DB01553#####Alcohol used in combination may enhance sedation or cause potentially fatal respiratory/cardiovascular depression.
+DB01567#####Avoid alcohol.
+DB01567#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB01567#####Avoid taking with grapefruit juice.
+DB01580#####Avoid alcohol.
+DB01580#####Avoid natural licorice.
+DB01580#####Take without regard to meals.
+DB01581#####Do not take calcium, aluminium, magnesium or iron supplements within 2 hours of taking this medication.
+DB01582#####Do not take calcium, aluminium, magnesium or iron supplements within 2 hours of taking this medication.
+DB01583#####Absorption increased in fasting state and decreased in malabsorption states.
+DB01583#####Consistent administration in relation to meals is recommended.
+DB01583#####Iron and calcium may interfere with absorption. Space doses at least one hour before or after iron or calcium intake. 
+DB01583#####Oral administration with infant soybean formula, soybean flour, cotton seed meal, walnuts, foods containing large amounts of fiber, ferrous sulfate, and antacids may decrease drug absorption. 
+DB01583#####Take 30-60 minutes before breakfast.
+DB01587#####Avoid alcohol
+DB01587#####Avoid excessive quantities of coffee or tea (caffeine).
+DB01587#####Avoid taking with grapefruit or grapefruit juice as grapefruit can significantly increase serum levels of this product.
+DB01587#####Take with food.
+DB01588#####Avoid alcohol.
+DB01588#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB01588#####Avoid taking with grapefruit juice.
+DB01588#####Take with food.
+DB01594#####Avoid alcohol.
+DB01594#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB01594#####Take with food.
+DB01595#####Avoid alcohol.
+DB01595#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB01595#####Take with food.
+DB01599#####Take with food. Food increases availability.
+DB01600#####Avoid alcohol.
+DB01600#####Take with food.
+DB01601#####Avoid St.John's Wort.
+DB01601#####Take with food.
+DB01604#####Take without regard to meals.
+DB01605#####Take without regard to meals.
+DB01608#####Take with food to reduce irritation. Avoid alcohol.
+DB01609#####Dispersion in carbonated drinks or milk is not recommended due to foaming and slow dispersion, respectively.
+DB01609#####Food causes inconsistent increases in the bioavailability of this product.
+DB01609#####Tablets should be completely dispersed in water, orange juice or apple juice and the resulting suspension should be ingested immediately (after swallowing the suspension, any residue should be resuspended in a small volume of liquid and swallowed).
+DB01609#####Tablets should be taken on an empty stomach at least 30 minutes before a meal, preferably at the same time everyday.
+DB01613#####Avoid alcohol.
+DB01613#####Take on empty stomach: 1 hour before or 2 hours after meals.
+DB01614#####Avoid alcohol
+DB01614#####Take with food to reduce irritation
+DB01619#####Avoid alcohol.
+DB01619#####Take with food to reduce irritation.
+DB01621#####Avoid alcohol
+DB01621#####Take with food to decrease irritation
+DB01622#####Avoid alcohol
+DB01622#####Take with food to avoid irritation
+DB01623#####Avoid alcohol
+DB01626#####Food increases the oral bioavailability by 3-5 fold.
+DB01627#####Take on an empty stomach, food decreases absorption.
+DB01628#####Take without regard to meals.
+DB02546#####Oral administration with a high-fat meal resulted in an increase (33%) in the extent of absorption and a modest decrease in the rate of absorption (T&lt;sub&gt;max&lt;/sub&gt; delayed 2.5 hours) compared to the fasted state.
+DB02703#####Take with food to reduce irritation.
+DB03585#####Take with food to reduce irritation.
+DB04571#####avoid eating limes, figs, parsley, parsnips, mustard, carrots, and celery while you are being treated with trioxsalen
+DB04574#####Take with food to decrease nausea
+DB04576#####Avoid excessive coffee or tea (caffeine)
+DB04576#####Avoid milk, calcium containing dairy products, iron, magnesium, zinc, antacids, or aluminum salts 2 hours before or 6 hours after using antacids while on this medication.
+DB04576#####Take with a full glass of water
+DB04576#####Take without regard to meals
+DB04836#####Avoid alcohol.
+DB04836#####Avoid excessive quantities of coffee or tea (Caffeine).
+DB04836#####Avoid St.John's Wort.
+DB04836#####Take with food to reduce irritation.
+DB04837#####Avoid alcohol.
+DB04837#####Take without regard to meals.
+DB04838#####Take with food to reduce irritation.
+DB04839#####Avoid alcohol.
+DB04839#####Take after a meal.
+DB04840#####Take without regard to meals.
+DB04841#####Avoid alcohol.
+DB04841#####Take without regard to meals.
+DB04842#####Avoid alcohol.
+DB04855#####Absorption of dronedarone increases 3-fold if taken with food especially if meal is high in fat content 
+DB04855#####Do not take dronedarone with grapefruit juice. Grapefruit juice is a potent CYP3A4 inhibitor which will increase serum concentrations of dronedarone threefold
+DB04865#####Homoharringtonine is administered subcutaneously, so food should have no effects. 
+DB04871#####Administration with or without food has no effect.
+DB04920#####Grapefruit Juice 
+DB04938#####In general, food increased the bioavailability of ospemifene by approximately 2-3 fold.
+DB04941#####Crofelemer is not affected by food.
+DB04946##### Administration of iloperidone with a standard high-fat meal did not significantly affect the Cmax or AUC of iloperidone, P88, or P95, but delayed Tmax by 1 hour for iloperidone, 2 hours for P88 and 6 hours for P95. 
+DB04946#####Can be taken with or without meals
+DB04953#####With a high-fat meal, Cmax is moderately increased. 
+DB05013#####No food effects found.
+DB05246#####Avoid alcohol
+DB05246#####Take with food
+DB05271#####Because rotigotine is administered transdermally, food should not affect absorption, and the product may be administered without regard to the timing of meals.
+DB05521#####St. John's wort is a CYP3A4 inducer which will decrease levels of telaprevir.
+DB05528#####Limit alcohol to a daily maximum of 1 drink (or equivalent) while using mipomersen sodium.
+DB05812#####Food and high fat meals increases the drug exposure 4.4-fold. It is suggested that abiraterone is taken on an empty stomach. 
+DB06152#####Take without regard to meals.
+DB06153#####Take without regard to meals.
+DB06154#####Take without regard to meals, taking it with food will dealy the onset on action.
+DB06168#####No food effects were found.
+DB06176#####Avoid grapefruit juice.
+DB06201#####Food increases plasma concentrations of rufinamide and slightly decreases half-life (by 3%) 
+DB06204#####Food increases the AUC and Cmax of tapentadol. Despite this, tapentadol can be given without regards to food.
+DB06207#####The effect of a moderate fat, moderate calorie meal was variable and decreased silodosin Cmax by approximately 18 − 43% and AUC by 4 − 49%
+DB06209#####Despite being a CYP3A4 inducer, grapefruit juice does not affect the pharmacokinetics of prasugrel
+DB06216#####Avoid water and food for at least 10 minutes post administration of asenapine 
+DB06228#####Food should be taken with the 15 mg and 20 mg tablet. Food increases the bioavailability of the 20 mg dose.
+DB06228#####Foods with antiplatelet/anticoagulants properties such as horseradish, gingko, ginger, garlic, feverfew
+DB06228#####St. John's Wort is a CYP3A4 inducer and will decrease levels of rivaroxaban
+DB06237#####When taken with a high-fat meal, time to maximum plasma concentration is prolonged- Tmax = 1 hour 20 minutes
+DB06268#####Take without regard to meals
+DB06290#####Simeprevir should be taken with food.
+DB06335#####Administration with a high-fat meal resulted in an increase in Tmax of saxagliptin by approximately 20 minutes as compared to fasted conditions. There was a 27% increase in the AUC of saxagliptin when given with a meal as compared to fasted conditions.
+DB06589#####Avoid drinking grapefruit juice as it is a CYP 3A4 inhibitor and will increase exposure of pazopanib
+DB06589#####Bioavailability increases with food. Take pazopanib on empty stomach. 
+DB06605#####Alfalfa, Anise, Bilberry may increase the adverse effects of apixaban.
+DB06605#####Grapefruit juice may increase apixaban serum concentration.
+DB06605#####St. John's wort will likely decrease apixaban serum concentration. Avoid combination if possible.
+DB06616#####When given with a high fat meal, the Cmax and AUC of bosutinib increased 1.8- and 1.7-fold, respectively.
+DB06626#####Avoid combination with strong CYP3A4 inhibitors such as grapefruit juice due to the likely increased levels of axitinib. If the combination cannot be avoided, reduce axitinib dose by 50%.
+DB06626#####Axitinib can be taken with or without food.
+DB06637#####A high fat meal significantly increases Cmax but this effect is not clinically relevant. May take dalfampridine without regard to meals 
+DB06663#####Since Signifor® is administered subcutaneously, food has no effect.
+DB06674#####Since golimumab is administered by subcutaneous injection, there are no food effects.
+DB06684#####Caution taking vilazodone with foods/herbal product with antiplatelet/anticoagulant properties
+DB06684#####Gingko bilboa, ginger, garlic, green tea, licorice, horseradish
+DB06691#####Avoid alcohol
+DB06691#####Take with food
+DB06693#####avoid alcohol 
+DB06693#####Grape fruit juice increases blood levels of the drug
+DB06695#####St. John's Wort
+DB06697#####Grapefruit juice may increase the toxicity of artemether and lumefantrine by inhibiting their metabolism.
+DB06697#####Take with food as food increases the absorption of artemether and lumefantrine. 
+DB06698#####Take with food.
+DB06700#####Take without regard to meals.
+DB06701#####Avoid alcohol
+DB06701#####Avoid excessive quantities of coffee or tea (caffeine)
+DB06701#####Take on empty stomach: 1 hour before or 2 hours after meals
+DB06702#####Take with or without food.
+DB06703#####Not affected by food.
+DB06708#####Grapefruit juice may increase the toxicity of artemether and lumefantrine by inhibiting their metabolism.
+DB06708#####Take with food as food increases the absorption of lumefantrine and artemether.
+DB06712#####Take without regard to meals
+DB06724#####Food increases the absorption of calcium carbonate. 
+DB06779#####Herbs (anticoagulant/antiplatelet properties such as ginseng, ginkgo, ginger, garlic)
+DB06799#####Take with food. Drink liberally.
+DB06822#####Herbs with anticoagulant/antiplatelet properties (ginger, gingko, garlic) may increase the risk of bleeding.
+DB08813#####Danshen, dong quai, evening primrose oil, gingko, policosanol, willowbark
+DB08814#####Gingko bilboa
+DB08814#####Herbs with anticoagulant/antiplatelet activity such as alfalfa, feverfew, ginger, ginseng, grape seed, green tea,  horseradish 
+DB08815#####When taken with food, there is a two-fold increase in exposure and  time to maximal concentration is increased by 0.5-1.5 hours. 
+DB08820#####Exposure increases 2- to 4- fold when given with a high fat meal. It is recommended that ivacaftor be given this way. 
+DB08822#####Food does not affect absorption or bioavailibity.
+DB08822#####Nutrition/Herbal interaction
+DB08823#####No known food interactions.
+DB08824#####No known food interactions.
+DB08826#####Food does not affect absorption.
+DB08827#####Avoid grapefruit juice, which will likely increase lomitapide plasma concentrations.
+DB08827#####When taking lomitapide with food, the risk of GI side effects is increased.
+DB08828#####Food does not affect absorption.
+DB08835#####No food effects were found.
+DB08860#####Avoid taking pitavastatin with red yeast rice. May increase risk of myopathy of pitavastatin via pharmacodynamic synergism. Red yeast rice contain monocolin K (similar to lovastatin) 
+DB08860#####Take with or without food 
+DB08864#####Absorption is increased by 40% if taken with food.
+DB08864#####Co-administration with St. John's wort decreases levels of rilpivirine by inducing CYP3A4 metabolism. Use is contraindicated. 
+DB08865#####When given with a high-fat meal, AUC and Cmax were reduced by 14%. Despite this, crizotinib may be given with or without food.  
+DB08867#####A high fat meal may lower mean Cmax and increase mean AUC(0-∞) but these changes are not clinically significant. Take without regards to meals. 
+DB08872#####No food effects.
+DB08873#####Food increases the exposure of boceprevir by up to 65%. However, bioavailability is not affected and thus can be taken without regards to meals.
+DB08874#####Food decreases Cmax of fidaxomicin and its metabolites however this is not considered clinically significant. 
+DB08875#####Avoid grapefruit juice. Combination may increase levels of cabozantinib. Also avoid all other strong CYP3A4 inhibitors.
+DB08876#####No food effects found.
+DB08877#####Take without regards to meals 
+DB08880#####Food does not affect teriflunomide pharmacokinetics, so take with or without food.
+DB08882#####Although a high fat meal reduces Cmax and increases AUC, this interaction with food is not clinically significant
+DB08883#####Food slows perampanel's absorption rate but not extent.
+DB08890#####Even when taken with food, linaclotide does not reach detectable levels in the plasma. However, when taken with a high fat meal, one may observe looser stools and a higher stool frequency.
+DB08893#####When taken with meals, levels of mirabegron decreased. Furthermore, the magnitude of this effect was greater if taken with a low fat meal, rather than a high fat meal. Despite these findings, dose adjustment is not required.
+DB08896#####When taken with a high-fat meal, AUC increased by 48% and decreased mean AUC of M2 and M5 metabolites by 20% and 51% respectively.
+DB08898#####No food effects were found.
+DB08903#####When administered with food, relative bioavailability increases 2-fold
+DB08908#####Food does not affect the pharmacokinetics of dimethyl fumarate, but it may reduce dimethyl fumarate induced GI upset and flushing. 
+DB08911#####When taken with a high-fat, high-calorie meal, AUC and Cmax decreased. Tmax was also prolonged compared to fasted conditions.
+DB08912#####When taken with a fatty meal, Cmax and AUC decreased. Tmax is also prolonged compared to the fasted condition.
+DB08913#####Since radium Ra 223 dichloride is administered intravenously, no food effects should occur.
+DB08916#####When given with a high-fat meal, Cmax decreases by 50% and AUC by 39% relative to the fasted state. 
+DB08932#####Can be taken with or without food.
+DB08934#####Sofosbuvir can be given with or without food.
+DB08935#####Echinacea: diminished therapeutic effect of immunosuppressants
+DB09034#####Grapefruit Juice
+DB09049#####A high-fat meal increased the extent and rate of naloxegol absorption. The Cmax and AUC were increased by approximately 30% and 45%, respectively. In clinical trials, naloxegol was dosed on an empty stomach approximately 1 hour prior to the first meal in the morning.
+DB09053#####Administration with food increases ibrutinib exposure approximately 2-fold compared with administration after overnight fasting.
+DB09083#####Grapefruit juice may increase ivabradine exposure by twofold (due to its inhibition of CYP3A4). Therefore grapefruit juice consumption is not recommended while taking ivabradine.
+DB09570#####A food effect study conducted in patients with a single 4 mg dose of ixazomib showed that a high-fat meal decreased ixazomib AUC by 28% and Cmax by 69%.
+DB11575#####Relative to fasting conditions, the administration of a single dose of grazoprevir + elbasvir (Zapatier) with a high-fat (900 kcal, 500 kcal from fat) meal to healthy subjects resulted in decreases in elbasvir AUC0-inf and Cmax of approximately 11% and 15%, respectively, and increases in grazoprevir AUC0-inf and Cmax of approximately 1.5-fold and 2.8-fold, respectively.

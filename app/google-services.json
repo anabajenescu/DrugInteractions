@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "964150381095",
+    "firebase_url": "https://druginteraction-edf9d.firebaseio.com",
+    "project_id": "druginteraction-edf9d",
+    "storage_bucket": "druginteraction-edf9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964150381095:android:80551c6885ce4e50",
+        "android_client_info": {
+          "package_name": "com.example.ana.druginteraction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964150381095-65vfhhcomv1a8rr5g46f8lsss5pms285.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ana.druginteraction",
+            "certificate_hash": "ae90f6b99cd0a8206ad9603f4928d4c64eea3677"
+          }
+        },
+        {
+          "client_id": "964150381095-9a9i2cv3vds1gis75sb40j1pfhbv0ukn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh9ZzGo8BdDzZkU7gA3Myfj9oHLKLAF60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964150381095-9a9i2cv3vds1gis75sb40j1pfhbv0ukn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
