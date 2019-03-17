@@ -53,19 +53,19 @@ public class DataUpload{
 
         String[] drugId = new String[drugsList.size()];
         String[] drugName = new String[drugsList.size()];
-        String[] drugDesription = new String[drugsList.size()];
+        String[] drugDescription = new String[drugsList.size()];
         int j = 0;
 
         databaseDrugs = FirebaseDatabase.getInstance().getReference("drugs");
 
-        for(int i = 0; i <= drugsList.size(); i = i+3) {
+        for(int i = 0; i < drugsList.size(); i = i+3) {
 
             drugId[j] = drugsList.get(i);
             drugName[j] = drugsList.get(i+1);
-            drugDesription[j] = drugsList.get(i+2);
+            drugDescription[j] = drugsList.get(i+2);
 
             String id = databaseDrugs.push().getKey();
-            Drug drug = new Drug(id, drugId[j], drugName[j], drugDesription[j]);
+            Drug drug = new Drug(id, drugId[j], drugName[j], drugDescription[j]);
             databaseDrugs.child(id).setValue(drug);
 
             j++;
@@ -82,7 +82,7 @@ public class DataUpload{
 
         databaseDrugInteractions= FirebaseDatabase.getInstance().getReference("drugInteractions");
 
-        for(int i = 0; i <= drugInteractionList.size(); i = i+4) {
+        for(int i = 0; i < drugInteractionList.size(); i = i+4) {
 
             drug1Id[j] = drugInteractionList.get(i);
             drug2Id[j] = drugInteractionList.get(i+1);
@@ -105,14 +105,14 @@ public class DataUpload{
 
         databaseFoodInteractions= FirebaseDatabase.getInstance().getReference("foodInteractions");
 
-        for(int i = 0; i <= foodInteractionList.size(); i = i+2) {
+        for(int i = 0; i < foodInteractionList.size(); i = i+2) {
 
             drugId[j] = foodInteractionList.get(i);
             interactions[j] = foodInteractionList.get(i+1);
 
             String id = databaseFoodInteractions.push().getKey();
             FoodInteractions foodInteractions = new FoodInteractions(id, drugId[j], interactions[j]);
-            databaseDrugInteractions.child(id).setValue(foodInteractions);
+            databaseFoodInteractions.child(id).setValue(foodInteractions);
 
             j++;
         }

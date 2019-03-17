@@ -22,16 +22,16 @@ public class MainActivity extends AppCompatActivity{
         ArrayList<String> drugInteractionsBuffer;
         ArrayList<String> foodInteractionsBuffer;
 
-       // int drugsId = this.getResources().getIdentifier("drugs", "raw", this.getPackageName());
+        int drugsId = this.getResources().getIdentifier("drugs", "raw", this.getPackageName());
         int drugInteractionsId = this.getResources().getIdentifier("drug_interactions", "raw", this.getPackageName());
         int foodInteractionsId = this.getResources().getIdentifier("food_interactions", "raw", this.getPackageName());
 
-        //drugsBuffer = readRawTextFile(this,drugsId);
-        drugInteractionsBuffer = readRawTextFile(this,drugInteractionsId);
+        drugsBuffer = readRawTextFile(this,drugsId);
+        //drugInteractionsBuffer = readRawTextFile(this,drugInteractionsId);
         foodInteractionsBuffer = readRawTextFile(this,foodInteractionsId);
 
-        //loadDrugs(drugsBuffer);
-        loadDrugInteractions(drugInteractionsBuffer);
+        loadDrugs(drugsBuffer);
+        //loadDrugInteractions(drugInteractionsBuffer);
         loadFoodInteractions(foodInteractionsBuffer);
     }
 }
