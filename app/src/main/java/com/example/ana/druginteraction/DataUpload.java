@@ -17,6 +17,7 @@ public class DataUpload{
     static DatabaseReference databaseDrugs;
     static DatabaseReference databaseDrugInteractions;
     static DatabaseReference databaseFoodInteractions;
+    static DatabaseReference databaseCategory;
 
     public static ArrayList<String> readRawTextFile(Context cx, int resId)
     {
@@ -26,11 +27,7 @@ public class DataUpload{
         BufferedReader buffreader = new BufferedReader(inputreader);
         String line;
         StringBuilder text = new StringBuilder();
-        String[] drug = null;
-//        String[][] drugs = null;
-//        int count = 0;
-//        List<List<String>> listOfLists = Lists.newArrayList();
-//        ArrayList<ArrayList<String>> listOfDrugs = new ArrayList<ArrayList<String>>();
+        String[] drug;
         ArrayList<String> listOfDrugs = new ArrayList<>();
 
         try {
@@ -40,8 +37,6 @@ public class DataUpload{
                 drug = text.toString().split("#####");
                 listOfDrugs.addAll(Arrays.asList(drug));
                 text.setLength(0);
-//                drugs[count] = drug;
-//                count++;
             }
         } catch (IOException e) {
             return null;
@@ -116,5 +111,31 @@ public class DataUpload{
 
             j++;
         }
+    }
+
+    public static void loadCategories(ArrayList<String> categoryList){
+
+        String[] drugId = new String[categoryList.size()];
+        String[] categoryName = new String[categoryList.size()];
+        int j = 0;
+
+        databaseCategory= FirebaseDatabase.getInstance().getReference("category");
+
+        for(int i = 0; i < categoryList.size(); i = i+3) {
+
+            drugId[j] = categoryList.get(i);
+            categoryName[j] = categoryList.get(i+2);
+
+            String id = databaseCategory.push().getKey();
+            Category category = new Category(id, drugId[j], categoryName[j]);
+            databaseCategory.child(id).setValue(category);
+
+            j++;
+        }
+    }
+
+    public static void removeDataFromDatabase(){
+        DatabaseReference root = FirebaseDatabase.getInstance().getReference();
+        root.setValue(null);
     }
 }
