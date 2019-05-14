@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_marginLeft="5dp">
+
+
+    <TextView
+        android:id="@+id/patientNameView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:hint="@string/name"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/patientSurnameView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:hint="@string/surname"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/patientGenderView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:hint="@string/gender"
+        android:textSize="17sp" />
+
+
+    <TextView
+        android:id="@+id/patientAgeView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:hint="@string/age"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/patientPhoneView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:hint="@string/phone"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/patientEmailView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:hint="@string/e_mail"
+        android:textSize="17sp" />
+
+</LinearLayout>

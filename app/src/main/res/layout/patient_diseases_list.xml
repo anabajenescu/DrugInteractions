@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/patientDiseasesHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:hint="@string/diseases"
+        android:textAlignment="center"
+        android:background="#5f98a6"
+        android:textColor="#FFF"
+        android:textSize="18sp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/patients_diseases_list"
+        android:layout_width="match_parent"
+        android:layout_height="385dp"
+        android:layout_below="@+id/patientDiseasesHeader"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="10dp"
+        android:background="#FFF"
+        android:visibility="visible"></android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/userNameView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:hint="@string/name"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/userSurnameView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/surname"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/userStatusView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/status"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/userGenderView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/gender"
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/userAgeView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/age"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/userPhoneView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/phone"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/userEmailView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/e_mail"
+        android:textSize="18sp" />
+
+</LinearLayout>

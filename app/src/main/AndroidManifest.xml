@@ -4,18 +4,33 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/drug_icon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/drug_icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ForgotPasswordActivity" />
+        <activity android:name=".UserProfileActivity" />
+        <activity android:name=".PatientsActivity" />
+        <activity android:name=".DiseasesActivity" />
+        <activity android:name=".PatientDetailsActivity" />
+        <activity android:name=".TreatmentActivity" />
+        <activity android:name=".PatientTreatmentActivity" />
+        <activity android:name=".DrugDetailsActivity" />
+        <activity android:name=".SelectPatientActivity" />
+        <activity android:name=".SelectDiseaseActivity" />
+        <activity android:name=".DoctorsActivity" />
+        <activity android:name=".DoctorDetailsActivity" />
+
     </application>
 
 </manifest>

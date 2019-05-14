@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:background="#FFF">
+
+    <TextView
+        android:id="@+id/selectDiseaseHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:hint="@string/selectDisease"
+        android:textAlignment="center"
+        android:background="#5f98a6"
+        android:textSize="16dp"
+        android:textColor="@color/colorWhite" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/dialog_disease_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="10dp"
+        android:background="#FFF"
+        android:visibility="visible"></android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

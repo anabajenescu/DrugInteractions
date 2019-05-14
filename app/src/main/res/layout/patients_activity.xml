@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#FFF">
+
+        <TextView
+            android:id="@+id/searchLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:text="@string/addPatient"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/patient_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/searchLabel"
+            android:layout_alignStart="@+id/searchLabel"
+            android:layout_toStartOf="@+id/addPatient"
+            android:background="@drawable/search_layout"
+            android:ems="10"
+            android:hint="@string/search_here"
+            android:inputType="textPersonName"
+            android:paddingLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="10dp"
+            android:layout_marginTop="7dp"
+            android:textColor="#999999"
+            android:textSize="16sp" />
+
+        <ImageButton
+            android:id="@+id/addPatient"
+            android:layout_width="66dp"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/patient_search"
+            android:layout_alignBottom="@+id/patient_search"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:background="@android:color/background_light"
+            android:visibility="visible"
+            android:padding="5dp"
+            app:srcCompat="@drawable/add_patient" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/patiens_list"
+            android:layout_width="match_parent"
+            android:layout_height="385dp"
+            android:layout_below="@+id/patient_search"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="20dp"
+            android:background="#FFF"
+            android:visibility="visible"></android.support.v7.widget.RecyclerView>
+
+    </RelativeLayout>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/navigation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:background="@android:color/white"
+        app:headerLayout="@layout/header"
+        app:itemIconTint="@color/colorPrimaryDark"
+        app:itemTextColor="@color/colorPrimaryDark"
+        app:menu="@menu/menu" />
+</android.support.v4.widget.DrawerLayout>

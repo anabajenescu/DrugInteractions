@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewEditName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#5f98a6"
+        android:text="@string/edit_name"
+        android:textAlignment="center"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/newValueName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#999999"
+        android:hint="@string/ent_new_value" />
+
+    <TextView
+        android:id="@+id/textViewEditSurname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_surname"
+        android:textAlignment="center"
+        android:textColor="#5f98a6"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/newValueSurname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#999999"
+        android:hint="@string/ent_new_value" />
+
+    <TextView
+        android:id="@+id/textViewEditGender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#5f98a6"
+        android:text="@string/edit_gender"
+        android:textAlignment="center"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/newValueGender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#999999"
+        android:hint="@string/ent_new_value_gender" />
+
+    <TextView
+        android:id="@+id/textViewEditAge"
+        android:layout_width="match_parent"
+        android:textColor="#5f98a6"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_age"
+        android:textAlignment="center"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/newValueAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#999999"
+        android:hint="@string/ent_new_value" />
+
+    <TextView
+        android:id="@+id/textViewEditPhone"
+        android:layout_width="match_parent"
+        android:textColor="#5f98a6"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_phone"
+        android:textAlignment="center"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/newValuePhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#999999"
+        android:hint="@string/ent_new_value" />
+
+    <TextView
+        android:id="@+id/textViewEditEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_email"
+        android:textAlignment="center"
+        android:textColor="#5f98a6"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/newValueEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/ent_new_value"
+        android:textColor="#999999" />
+
+    <Button
+        android:id="@+id/buttonUpdate"
+        android:layout_marginStart="78dp"
+        android:background="#FFFF"
+        android:text="@string/update"
+        android:textColor="#5f98a6"
+        android:textSize="12sp"
+        android:layout_width="155dp"
+        android:layout_height="31dp"
+        android:color="#FFFFFF"
+        android:layout_marginTop="10dp" />
+</LinearLayout>

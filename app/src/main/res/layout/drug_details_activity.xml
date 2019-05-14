@@ -1,0 +1,143 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF">
+
+    <ScrollView
+        android:id="@+id/ScrollViewDrugs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFF">
+
+        <RelativeLayout
+            android:id="@+id/resultedDrugDetails"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+
+            <TextView
+                android:id="@+id/drugDetailsNameHeader"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#5f98a6"
+                android:text="@string/name_header"
+                android:textColor="#FFF"
+                android:textSize="16sp"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/resultedDrugDetailsName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/drugDetailsNameHeader"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="#999999" />
+
+            <TextView
+                android:id="@+id/drugDetailsDescriptionHeader"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/resultedDrugDetailsName"
+                android:layout_marginTop="10dp"
+                android:background="#5f98a6"
+                android:textAlignment="center"
+                android:text="@string/description_header"
+                android:textColor="#FFF"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/resultedDrugDetailsDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/drugDetailsDescriptionHeader"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="#999999" />
+
+            <TextView
+                android:id="@+id/drugDetailsCategoryHeader"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/resultedDrugDetailsDescription"
+                android:layout_marginTop="10dp"
+                android:textAlignment="center"
+                android:background="#5f98a6"
+                android:text="@string/category_header"
+                android:textColor="#FFF"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/resultedDrugDetailsCategory"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/drugDetailsCategoryHeader"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="#999999" />
+
+            <TextView
+                android:id="@+id/foodDetailsInteractionHeader"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/resultedDrugDetailsCategory"
+                android:layout_marginTop="10dp"
+                android:textAlignment="center"
+                android:background="#5f98a6"
+                android:text="@string/food_interact_header"
+                android:textColor="#FFF"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/resultedFoodDetailsInteraction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/foodDetailsInteractionHeader"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"
+                android:textColor="#999999" />
+
+            <TextView
+                android:id="@+id/userStatusDetails"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_below="@id/resultedFoodDetailsInteraction"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/drugIdDetails"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/userEmailDetails"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_below="@id/userStatusDetails"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/navigation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:background="@android:color/white"
+        app:headerLayout="@layout/header"
+        app:itemIconTint="@color/colorPrimaryDark"
+        app:itemTextColor="@color/colorPrimaryDark"
+        app:menu="@menu/menu" />
+
+</android.support.v4.widget.DrawerLayout>

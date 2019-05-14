@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF">
+
+    <ScrollView
+        android:id="@+id/ScrollView02"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFF">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#FFF">
+
+            <TextView
+                android:id="@+id/searchLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/drug_search"
+                android:textSize="24sp" />
+
+            <ImageButton
+                android:id="@+id/search_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/search_field"
+                android:layout_alignBottom="@+id/search_field"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="64dp"
+                android:layout_marginBottom="0dp"
+                android:background="@android:color/background_light"
+                android:visibility="visible"
+                app:srcCompat="@mipmap/search_btn" />
+
+            <ImageButton
+                android:id="@+id/add_drug_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/search_field"
+                android:layout_alignRight="@+id/search_btn"
+                android:layout_alignBottom="@+id/search_field"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="21dp"
+                android:layout_marginRight="-43dp"
+                android:layout_marginBottom="0dp"
+                android:background="@android:color/background_light"
+                android:visibility="visible"
+                app:srcCompat="@mipmap/add_btn" />
+
+            <EditText
+                android:id="@+id/search_field"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/searchLabel"
+                android:layout_alignStart="@+id/searchLabel"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="36dp"
+                android:layout_toStartOf="@+id/search_btn"
+                android:background="@drawable/search_layout"
+                android:ems="10"
+                android:hint="@string/search_here"
+                android:inputType="textPersonName"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="10dp"
+                android:textColor="#999999"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/search_field2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/search_field"
+                android:layout_alignStart="@+id/search_field"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="36dp"
+                android:layout_toStartOf="@+id/search_btn"
+                android:background="@drawable/search_layout"
+                android:ems="10"
+                android:hint="@string/search_here"
+                android:inputType="textPersonName"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="10dp"
+                android:textColor="#999999"
+                android:textSize="16sp"
+                android:visibility="gone" />
+
+            <ImageButton
+                android:id="@+id/search_btn2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/search_field2"
+                android:layout_alignBottom="@+id/search_field2"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="64dp"
+                android:layout_marginBottom="0dp"
+                android:background="@android:color/background_light"
+                android:visibility="gone"
+                app:srcCompat="@mipmap/search_btn" />
+
+            <ImageButton
+                android:id="@+id/minimize_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/search_field2"
+                android:layout_alignRight="@+id/search_btn2"
+                android:layout_alignBottom="@+id/search_field2"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="21dp"
+                android:layout_marginRight="-43dp"
+                android:layout_marginBottom="0dp"
+                android:background="@android:color/background_light"
+                android:visibility="gone"
+                app:srcCompat="@mipmap/minus_btn" />
+
+            <EditText
+                android:id="@+id/drugId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/drugId2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+            <RelativeLayout
+                android:id="@+id/resultedDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/search_field"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="80dp"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/drugNameHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#5f98a6"
+                    android:text="@string/name_header"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/resultedDrugName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/drugNameHeader"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#999999" />
+
+                <TextView
+                    android:id="@+id/drugDescriptionHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/resultedDrugName"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/description_header"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/resultedDrugDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/drugDescriptionHeader"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#999999" />
+
+                <TextView
+                    android:id="@+id/drugCategoryHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/resultedDrugDescription"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/category_header"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/resultedDrugCategory"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/drugCategoryHeader"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#999999" />
+
+                <TextView
+                    android:id="@+id/foodInteractionHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/resultedDrugCategory"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/food_interact_header"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/resultedFoodInteraction"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/foodInteractionHeader"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#999999" />
+
+                <ImageButton
+                    android:id="@+id/add_drug"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/resultedFoodInteraction"
+                    android:layout_alignParentEnd="true"
+                    android:background="@android:color/background_light"
+                    app:srcCompat="@mipmap/plus80" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/resultedDetails2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/search_field"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="80dp"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <View
+                    android:id="@+id/fakeView"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_centerInParent="true" />
+
+                <TextView
+                    android:id="@+id/drugNameHeader1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@id/fakeView"
+                    android:layout_alignParentLeft="true"
+                    android:background="#5f98a6"
+                    android:text="@string/name_header"
+                    android:textAlignment="center"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/drugNameHeader2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@id/fakeView"
+                    android:layout_alignParentRight="true"
+                    android:background="#5f98a6"
+                    android:text="@string/name_header"
+                    android:textAlignment="center"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <LinearLayout
+                    android:id="@+id/nameSection"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/drugNameHeader1"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:id="@+id/resultedDrugName1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:textColor="#999999" />
+
+                    <TextView
+                        android:id="@+id/resultedDrugName2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:textColor="#999999" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/drugDescriptionHeader1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/nameSection"
+                    android:layout_alignRight="@id/fakeView"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/description_header"
+                    android:textAlignment="center"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/drugDescriptionHeader2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/nameSection"
+                    android:layout_alignLeft="@id/fakeView"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/description_header"
+                    android:textAlignment="center"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <LinearLayout
+                    android:id="@+id/descriptionSection"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/drugDescriptionHeader1"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:id="@+id/resultedDrugDescription1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:textColor="#999999" />
+
+                    <TextView
+                        android:id="@+id/resultedDrugDescription2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:textColor="#999999" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/drugCategoryHeader1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/descriptionSection"
+                    android:layout_alignRight="@id/fakeView"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/category_header"
+                    android:textAlignment="center"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/drugCategoryHeader2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/descriptionSection"
+                    android:layout_alignLeft="@id/fakeView"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/category_header"
+                    android:textAlignment="center"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <LinearLayout
+                    android:id="@+id/categorySection"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/drugCategoryHeader1"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:id="@+id/resultedDrugCategory1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:textColor="#999999" />
+
+                    <TextView
+                        android:id="@+id/resultedDrugCategory2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:textColor="#999999" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/foodInteractionHeader1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/categorySection"
+                    android:layout_alignRight="@id/fakeView"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/food_interact_header"
+                    android:textAlignment="center"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/foodInteractionHeader2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/categorySection"
+                    android:layout_alignLeft="@id/fakeView"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/food_interact_header"
+                    android:textAlignment="center"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <LinearLayout
+                    android:id="@+id/foodInteractionSection"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/foodInteractionHeader1"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <TextView
+                        android:id="@+id/resultedFoodInteraction1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:textColor="#999999" />
+
+                    <TextView
+                        android:id="@+id/resultedFoodInteraction2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_weight="1"
+                        android:textColor="#999999" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/drugInteractionHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/foodInteractionSection"
+                    android:layout_marginTop="10dp"
+                    android:background="#5f98a6"
+                    android:text="@string/drug_interact_header"
+                    android:textAlignment="center"
+                    android:textColor="#FFF"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/resultedDrugInteraction"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/drugInteractionHeader"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:textColor="#999999" />
+
+                <ImageButton
+                    android:id="@+id/add_drug1"
+                    android:layout_width="68dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/resultedDrugInteraction"
+                    android:layout_alignRight="@id/fakeView"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="103dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@android:color/background_light"
+                    app:srcCompat="@mipmap/plus80" />
+
+                <ImageButton
+                    android:id="@+id/add_drug2"
+                    android:layout_width="68dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/resultedDrugInteraction"
+                    android:layout_alignLeft="@id/fakeView"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="114dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@android:color/background_light"
+                    app:srcCompat="@mipmap/plus80" />
+
+                <TextView
+                    android:id="@+id/userStatus"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_below="@id/add_drug2"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/userEmail"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_below="@id/userStatus"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/result_list"
+                android:layout_width="match_parent"
+                android:layout_height="350dp"
+                android:layout_below="@+id/search_field"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="80dp"
+                android:background="#FFF"
+                android:visibility="visible">
+
+            </android.support.v7.widget.RecyclerView>
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/navigation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:background="@android:color/white"
+        app:headerLayout="@layout/header"
+        app:itemIconTint="@color/colorPrimaryDark"
+        app:itemTextColor="@color/colorPrimaryDark"
+        app:menu="@menu/menu" />
+
+</android.support.v4.widget.DrawerLayout>
