@@ -101,6 +101,7 @@ public class DoctorsActivity extends AppCompatActivity implements NavigationView
         setAdapter("1");
     }
 
+    //set right menu items and user's photo and details in menu
     public void setMenuHeader() {
 
         usersRef.addListenerForSingleValueEvent(new ValueEventListener() {
@@ -136,6 +137,7 @@ public class DoctorsActivity extends AppCompatActivity implements NavigationView
         return super.onOptionsItemSelected(item);
     }
 
+    //send intents for redirecting to corresponding activities when click on menu items
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
@@ -177,12 +179,14 @@ public class DoctorsActivity extends AppCompatActivity implements NavigationView
         return true;
     }
 
+    //return to MainActivity when press phone back button
     @Override
     public void onBackPressed() {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
 
+    //display all doctors for the patient logged in when activity starts
     private void setAdapter(final String position) {
 
         doctorsRef.addListenerForSingleValueEvent(new ValueEventListener() {

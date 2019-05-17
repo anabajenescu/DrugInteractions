@@ -57,6 +57,7 @@ public class DiseaseAdapter extends RecyclerView.Adapter<DiseaseAdapter.SearchVi
     @Override
     public void onBindViewHolder(final DiseaseAdapter.SearchViewHolder holder, int position) {
         holder.diseaseName.setText(diseaseNameList.get(position));
+        //delete disease when click on X from disease name
         holder.deleteDisease.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
@@ -78,6 +79,7 @@ public class DiseaseAdapter extends RecyclerView.Adapter<DiseaseAdapter.SearchVi
         });
     }
 
+    //remove selected disease from firebase
     public void deleteDisease(final String disease_name) {
         diseasesRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override

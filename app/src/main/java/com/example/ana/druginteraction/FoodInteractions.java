@@ -1,5 +1,6 @@
 package com.example.ana.druginteraction;
 
+//helper class for uploading food interactions in database
 public class FoodInteractions {
 
     String id;

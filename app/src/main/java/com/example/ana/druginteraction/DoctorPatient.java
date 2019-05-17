@@ -1,5 +1,6 @@
 package com.example.ana.druginteraction;
 
+//helper class for uploading doctor-patient data in firebase database
 public class DoctorPatient {
 
     private String doctorEmail;

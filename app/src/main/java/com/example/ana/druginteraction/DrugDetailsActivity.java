@@ -134,6 +134,7 @@ public class DrugDetailsActivity extends AppCompatActivity implements Navigation
         setMenuHeader();
     }
 
+    //set corresponding menu items for patients/doctors and users photo and details
     public void setMenuHeader() {
 
         userRef.addListenerForSingleValueEvent(new ValueEventListener() {
@@ -169,6 +170,7 @@ public class DrugDetailsActivity extends AppCompatActivity implements Navigation
         });
     }
 
+    //search in database for drug and display name and description
     public void drugDetails(final String drugNameToSearch) {
 
         drugsRef.child("drugs").addListenerForSingleValueEvent(new ValueEventListener() {
@@ -189,11 +191,6 @@ public class DrugDetailsActivity extends AppCompatActivity implements Navigation
                         drug_name1 = snapshot.child("name").getValue(String.class);
                         drug_description = snapshot.child("description").getValue(String.class);
                     }
-//                    if (drug_id.toLowerCase().equals(drugId.toLowerCase())) {
-//                        drug_name1 = snapshot.child("name").getValue(String.class);
-//                        drug_description = snapshot.child("description").getValue(String.class);
-//                    }
-
                 }
                 resultedName.setText(drug_name1);
                 resultedDescription.setText(drug_description);
@@ -205,6 +202,7 @@ public class DrugDetailsActivity extends AppCompatActivity implements Navigation
             }
         });
 
+        //search in database for drug and display categories
         categoryRef.child("category").addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
@@ -228,6 +226,7 @@ public class DrugDetailsActivity extends AppCompatActivity implements Navigation
             }
         });
 
+        //search in database for drug and display food interaction
         foodInteractionRef.child("foodInteractions").addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
@@ -269,6 +268,7 @@ public class DrugDetailsActivity extends AppCompatActivity implements Navigation
         return super.onOptionsItemSelected(item);
     }
 
+    //redirect to right activity when click on corresponding menu item
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
@@ -339,6 +339,7 @@ public class DrugDetailsActivity extends AppCompatActivity implements Navigation
         super.onStop();
     }
 
+    //go to MainActivity when phone back button is pressed
     @Override
     public void onBackPressed() {
         Intent intent = new Intent(this, MainActivity.class);

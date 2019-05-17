@@ -12,6 +12,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
+//adapter used to display doctors information
 public class DoctorList extends ArrayAdapter {
 
     private Activity context;

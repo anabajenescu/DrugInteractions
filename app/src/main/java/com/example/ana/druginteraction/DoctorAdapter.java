@@ -58,6 +58,7 @@ public class DoctorAdapter extends RecyclerView.Adapter<DoctorAdapter.SearchView
     public void onBindViewHolder(final DoctorAdapter.SearchViewHolder holder, int position) {
         holder.doctorName.setText(doctorNameList.get(position));
 
+        //delete doctor when click on X image button from doctor's name
         holder.deleteDoctor.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
@@ -68,6 +69,7 @@ public class DoctorAdapter extends RecyclerView.Adapter<DoctorAdapter.SearchView
             }
         });
 
+        //redirect to corresponding DoctorDetailsActivity when click on doctor's name
         holder.doctorName.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
@@ -85,6 +87,7 @@ public class DoctorAdapter extends RecyclerView.Adapter<DoctorAdapter.SearchView
         return doctorNameList.size();
     }
 
+    //find the doctors of the logged in patients and remove them from database
     public void deleteDoctor(final String doctor_email) {
         doctorsRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override

@@ -21,6 +21,7 @@ public class DataUpload{
 
     public static ArrayList<String> readRawTextFile(Context cx, int resId)
     {
+        //open raw text file
         InputStream inputStream = cx.getResources().openRawResource(resId);
 
         InputStreamReader inputreader = new InputStreamReader(inputStream);
@@ -31,9 +32,12 @@ public class DataUpload{
         ArrayList<String> listOfDrugs = new ArrayList<>();
 
         try {
+            //read lines from file
             while (( line = buffreader.readLine()) != null) {
+                //append line to string builder
                 text.append(line);
                 text.append('\n');
+                //split line by ##### to obtain each element from line
                 drug = text.toString().split("#####");
                 listOfDrugs.addAll(Arrays.asList(drug));
                 text.setLength(0);
@@ -51,15 +55,19 @@ public class DataUpload{
         String[] drugDescription = new String[drugsList.size()];
         int j = 0;
 
+        //reference to firebase drugs database
         databaseDrugs = FirebaseDatabase.getInstance().getReference("drugs");
 
         for(int i = 0; i < drugsList.size(); i = i+3) {
 
+            //take drug id, name and description
             drugId[j] = drugsList.get(i);
             drugName[j] = drugsList.get(i+1);
             drugDescription[j] = drugsList.get(i+2);
 
+            //generate id and push in firebase
             String id = databaseDrugs.push().getKey();
+            //create drug object in order to upload in drugs database
             Drug drug = new Drug(id, drugId[j], drugName[j], drugDescription[j]);
             databaseDrugs.child(id).setValue(drug);
 
@@ -67,6 +75,7 @@ public class DataUpload{
         }
     }
 
+    //load drugInteractions in database the same as uploading drugs
     public static void loadDrugInteractions(ArrayList<String> drugInteractionList){
 
         String[] drug1Id = new String[drugInteractionList.size()];
@@ -92,6 +101,7 @@ public class DataUpload{
         }
     }
 
+    //load foodInteractions in database the same as uploading drugs
     public static void loadFoodInteractions(ArrayList<String> foodInteractionList){
 
         String[] drugId = new String[foodInteractionList.size()];
@@ -113,6 +123,7 @@ public class DataUpload{
         }
     }
 
+    //load categories in database the same as uploading drugs
     public static void loadCategories(ArrayList<String> categoryList){
 
         String[] drugId = new String[categoryList.size()];

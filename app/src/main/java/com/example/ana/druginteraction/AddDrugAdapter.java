@@ -27,6 +27,7 @@ public class AddDrugAdapter extends RecyclerView.Adapter<AddDrugAdapter.SearchVi
     String pos;
     String drugName;
 
+    //references to firebase database
     private DatabaseReference usersRef = FirebaseDatabase.getInstance().getReference().child("Users");
     private DatabaseReference diseaseDrugRef = FirebaseDatabase.getInstance().getReference().child("DiseaseDrug");
 
@@ -56,6 +57,7 @@ public class AddDrugAdapter extends RecyclerView.Adapter<AddDrugAdapter.SearchVi
     public void onBindViewHolder(final AddDrugAdapter.SearchViewHolder holder, int position) {
         holder.diseaseName.setText(diseaseNameList.get(position));
 
+//        call addDrug method when click on disease name
         holder.diseaseName.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 addDrug(drugName, diseaseNameList.get(holder.getAdapterPosition()));
@@ -70,6 +72,8 @@ public class AddDrugAdapter extends RecyclerView.Adapter<AddDrugAdapter.SearchVi
 
     public void addDrug(final String drugName, final String diseaseName) {
 
+        //verify if current user equals user from User firebase DB and if true take user data and
+        //insert drug in DiseaseDrug firebase DB
         if (!drugName.equals("")) {
             usersRef.addListenerForSingleValueEvent(new ValueEventListener() {
                 @Override

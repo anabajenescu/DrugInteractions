@@ -48,6 +48,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
         firebaseAuth = FirebaseAuth.getInstance();
 
+        //start MainActivity after login
         FirebaseAuth.AuthStateListener authStateListener = new FirebaseAuth.AuthStateListener() {
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth auth) {
@@ -77,6 +78,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         forgotPasswordButton.setOnClickListener(this);
     }
 
+    //redirect to corresponding activity when button pressed
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
@@ -93,6 +95,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         }
     }
 
+    //take email and password and verify login using firebase login service
     private void userLogin() {
 
         String email = emailText.getText().toString().trim();

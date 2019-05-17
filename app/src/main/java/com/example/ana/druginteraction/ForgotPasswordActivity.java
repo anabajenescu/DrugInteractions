@@ -37,6 +37,7 @@ public class ForgotPasswordActivity extends AppCompatActivity implements View.On
         sendMailButton.setOnClickListener(this);
     }
 
+    //send email using firebase services in order to change password if forgotten
     @Override
     public void onClick(View v) {
         String userMail = emailText.getText().toString().trim();

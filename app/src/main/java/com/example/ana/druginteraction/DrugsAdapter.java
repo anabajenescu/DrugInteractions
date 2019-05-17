@@ -59,6 +59,7 @@ public class DrugsAdapter extends RecyclerView.Adapter<DrugsAdapter.SearchViewHo
     @Override
     public void onBindViewHolder(final DrugsAdapter.SearchViewHolder holder, int position) {
         holder.drugName.setText(drugsNameList.get(position));
+        //remove drug from adapter and call deleteDrug when user clicks on X image button
         holder.deleteDrug.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
@@ -79,6 +80,7 @@ public class DrugsAdapter extends RecyclerView.Adapter<DrugsAdapter.SearchViewHo
         });
     }
 
+    //remove drug and disease from firebase database
     public void deleteDrug(final String drug_name, final String disease_name) {
         drugsRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override

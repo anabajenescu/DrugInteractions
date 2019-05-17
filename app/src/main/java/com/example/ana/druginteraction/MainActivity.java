@@ -201,6 +201,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         setDiseasesAdapter("1");
 
+        //show drugs from database that match inserted string
         searchField.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -225,9 +226,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //get intent from adapter using broadcast receiver
         LocalBroadcastManager.getInstance(this).registerReceiver(mMessageReceiver,
                 new IntentFilter("searchDrug"));
 
+        //show drugs from database that match inserted string
         searchField2.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -252,9 +255,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //get intent from adapter using broadcast receiver
         LocalBroadcastManager.getInstance(this).registerReceiver(mMessageReceiver,
                 new IntentFilter("searchDrug"));
 
+        //open search field 2 when button pressed
         addBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -267,6 +272,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //close search field 2 when button pressed
         minimizeBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -281,6 +287,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //when pressed call method in order to display searched drug details
         searchBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -299,6 +306,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //when pressed call method in order to display searched drug details
         searchBtn2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -325,6 +333,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //add drug to patient/current user disease
         addDrug.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -339,6 +348,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //add drug to patient/current user disease
         addDrug1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -353,6 +363,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //add drug to patient/current user disease
         addDrug2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -370,6 +381,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         setMenuHeader();
     }
 
+    //set right menu items for doctor/patient and set user details and photo
     public void setMenuHeader() {
 
         userRef.addListenerForSingleValueEvent(new ValueEventListener() {
@@ -404,6 +416,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         });
     }
 
+    //adapter used in order to display drugs when user inserts string in search field
     private void setAdapter(final String searchedString, final String position) {
 
         resultList.setVisibility(View.VISIBLE);
@@ -442,6 +455,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         });
     }
 
+    //get data from adapter through broadcast receiver
     public BroadcastReceiver mMessageReceiver = new BroadcastReceiver() {
         @Override
         public void onReceive(Context context, Intent intent) {
@@ -466,6 +480,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         }
     };
 
+    //retrieve data from firebase if searched drug matches drug from database
     public void drugDetails(final String drugNameToSearch, final String drugIdToSearch,
                             final String drugNameToSearch2, final String drugIdToSearch2) {
 
@@ -518,6 +533,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //retrieve data from firebase if searched drug matches drug from database
         categoryRef.child("category").addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
@@ -552,6 +568,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //retrieve data from firebase if searched drug matches drug from database
         foodInteractionRef.child("foodInteractions").addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
@@ -596,6 +613,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             }
         });
 
+        //retrieve data from firebase if searched drug matches drug from database
         drugInteractionRef.child("drugInteractions").addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
@@ -638,6 +656,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         return super.onOptionsItemSelected(item);
     }
 
+    //send intents to right activities when item from menu is pressed
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
@@ -709,6 +728,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         startActivity(intent);
     }
 
+    //insert drug to a disease/patient's disease
     public void addDrug(String drugName, final String position) {
         //add drug to current patient's diseases
         //select disease
@@ -733,6 +753,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     }
 
+    //set disease list using adapter in order to use it when adding a drug to a disease
     private void setDiseasesAdapter(final String position) {
 
         diseasesRef.addListenerForSingleValueEvent(new ValueEventListener() {

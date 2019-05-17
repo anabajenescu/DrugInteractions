@@ -1,5 +1,6 @@
 package com.example.ana.druginteraction;
 
+//helper class for uploading categories in database
 public class Category {
     String id;
     String drugId;

@@ -106,6 +106,7 @@ public class DoctorDetailsActivity extends AppCompatActivity implements Navigati
         setMenuHeader();
     }
 
+    //set menu items for patient and set patient's photo and name in menu
     public void setMenuHeader() {
 
         usersRef.addListenerForSingleValueEvent(new ValueEventListener() {
@@ -142,6 +143,7 @@ public class DoctorDetailsActivity extends AppCompatActivity implements Navigati
         return super.onOptionsItemSelected(item);
     }
 
+    //send intents to corresponding activities for menu items
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
@@ -187,6 +189,7 @@ public class DoctorDetailsActivity extends AppCompatActivity implements Navigati
         return true;
     }
 
+    //open DoctorsActivity when click on phone back button
     @Override
     public void onBackPressed() {
         Intent intent = new Intent(this, DoctorsActivity.class);
@@ -197,6 +200,7 @@ public class DoctorDetailsActivity extends AppCompatActivity implements Navigati
     protected void onStart() {
         super.onStart();
 
+        //set doctor's info when activity starts
         if (!TextUtils.isEmpty(doctorFullName)) {
             usersRef.addValueEventListener(new ValueEventListener() {
                 @Override

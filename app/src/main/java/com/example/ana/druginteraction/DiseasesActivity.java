@@ -111,6 +111,7 @@ public class DiseasesActivity extends AppCompatActivity implements NavigationVie
         addDisease.setOnClickListener(this);
     }
 
+    //enable menu options for patients and upload patient photo and details
     public void setMenuHeader() {
 
         usersRef.addListenerForSingleValueEvent(new ValueEventListener() {
@@ -150,6 +151,7 @@ public class DiseasesActivity extends AppCompatActivity implements NavigationVie
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
+            //add disease when click on add image button
             case R.id.addDisease:
                 String disease = diseaseNameTxt.getText().toString();
                 addDisease(disease);
@@ -163,6 +165,7 @@ public class DiseasesActivity extends AppCompatActivity implements NavigationVie
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer);
         drawer.closeDrawer(GravityCompat.START);
 
+        //create intents for each menu entry in order to redirect to corresponding activity
         int id = item.getItemId();
         switch (id) {
 
@@ -199,12 +202,14 @@ public class DiseasesActivity extends AppCompatActivity implements NavigationVie
         return true;
     }
 
+    //return to MainActivity when click on phone back button
     @Override
     public void onBackPressed() {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
 
+    //create patient-disease object in order to upload data in firebase
     public void addDisease(final String name) {
 
         usersRef.addListenerForSingleValueEvent(new ValueEventListener() {
@@ -236,6 +241,7 @@ public class DiseasesActivity extends AppCompatActivity implements NavigationVie
         });
     }
 
+    //display a patient's diseases when activity starts
     private void setAdapter(final String position) {
 
         diseasesRef.addListenerForSingleValueEvent(new ValueEventListener() {
